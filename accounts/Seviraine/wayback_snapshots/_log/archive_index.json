@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-04T09:21:02",
+  "last_updated": "2026-07-04T09:59:07",
   "html": {
     "https://web.archive.org/web/20260614114927if_/https://twitter.com/Seviraine/status/2066125862848848279": {
       "status": "done",
@@ -1916,13 +1916,13 @@
       "last_updated": "2026-07-04T09:09:32"
     },
     "https://pbs.twimg.com/media/HKyiJVLbwAATXBG.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260614170222_twitter_com_Seviraine_status_2066204613141995752.json"
       ],
-      "last_updated": "2026-07-04T09:18:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614170222im_/https://pbs.twimg.com/media/HKyiJVLbwAATXBG.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f83d30d55b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-04T09:58:09",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260614170222/https://pbs.twimg.com/media/HKyiJVLbwAATXBG.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HKyoq43WQAE7Vh0.jpg": {
       "status": "done",
@@ -1967,13 +1967,13 @@
       "last_updated": "2026-07-04T09:09:32"
     },
     "https://pbs.twimg.com/media/HK1Kp8aWMAASUkF.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260615051836_twitter_com_Seviraine_status_2066389892184023385.json"
       ],
-      "last_updated": "2026-07-04T09:18:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615051836if_/https://pbs.twimg.com/media/HK1Kp8aWMAASUkF.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f83d30d7b90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-04T09:58:16",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260615051836/https://pbs.twimg.com/media/HK1Kp8aWMAASUkF.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HKwyeNcWUAAj6E0.jpg": {
       "status": "done",
@@ -1990,22 +1990,22 @@
       "last_updated": "2026-07-04T09:18:15"
     },
     "https://pbs.twimg.com/media/HKxZvIbakAEXDCZ.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260615084644_twitter_com_Seviraine_status_2066442271441187229.json"
       ],
-      "last_updated": "2026-07-04T09:18:34",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615084644/https://pbs.twimg.com/media/HKxZvIbakAEXDCZ.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f83d30865a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-04T09:58:18",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260615084644/https://pbs.twimg.com/media/HKxZvIbakAEXDCZ.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HKpqj40XgAAxAK8.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260615091838_twitter_com_Seviraine_status_2066450297007038727.json"
       ],
-      "last_updated": "2026-07-04T09:18:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615091838if_/https://pbs.twimg.com/media/HKpqj40XgAAxAK8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f83d30d7830>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-04T09:58:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615091838im_/https://pbs.twimg.com/media/HKpqj40XgAAxAK8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f29d18e58e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HK2FL1RakAAuGY-.jpg": {
       "status": "done",
@@ -2054,9 +2054,9 @@
       "referenced_by": [
         "20260615203447_twitter_com_Seviraine_status_2066620458573947282.json"
       ],
-      "last_updated": "2026-07-04T09:18:43",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615203447/https://pbs.twimg.com/media/HK4cWtkbwAAhr1z.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f83d3108e30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-04T09:58:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615203447im_/https://pbs.twimg.com/media/HK4cWtkbwAAhr1z.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f29d18e78c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HK4ifiZaEAA-SnQ.jpg": {
       "status": "done",
@@ -2077,9 +2077,9 @@
       "referenced_by": [
         "20260616152001_twitter_com_Seviraine_status_2066903632654823811.json"
       ],
-      "last_updated": "2026-07-04T09:18:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616152001if_/https://pbs.twimg.com/media/HK8d5m0aoAAOvn-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f83d30d4b90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-04T09:58:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616152001im_/https://pbs.twimg.com/media/HK8d5m0aoAAOvn-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f29d1912a80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HK8f7PMa4AACIB5.jpg": {
       "status": "done",
@@ -2136,9 +2136,9 @@
       "referenced_by": [
         "20260617043326_twitter_com_Seviraine_status_2067103302253502566.json"
       ],
-      "last_updated": "2026-07-04T09:18:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617043326/https://pbs.twimg.com/media/HK8UqCqaMAEqNLd.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f83d31092b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-04T09:58:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617043326im_/https://pbs.twimg.com/media/HK8UqCqaMAEqNLd.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f29d1911760>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HK9SpqHaMAACFND.jpg": {
       "status": "done",
@@ -2251,9 +2251,9 @@
         "20260618181535_twitter_com_Seviraine_status_2067672591134032006.json",
         "20260618181546_twitter_com_Seviraine_status_2067672635333607908.json"
       ],
-      "last_updated": "2026-07-04T09:18:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618181535if_/https://pbs.twimg.com/media/HLDnbsybgAAo0bm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f83d1f2baa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-07-04T09:58:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618181535im_/https://pbs.twimg.com/media/HLDnbsybgAAo0bm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f29d075c1d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HLDnbs2bwAA2QaB.jpg": {
       "status": "failed",
@@ -2261,9 +2261,9 @@
         "20260618181535_twitter_com_Seviraine_status_2067672591134032006.json",
         "20260618181546_twitter_com_Seviraine_status_2067672635333607908.json"
       ],
-      "last_updated": "2026-07-04T09:18:58",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618181535/https://pbs.twimg.com/media/HLDnbs2bwAA2QaB.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f83d3086900>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-07-04T09:58:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618181535im_/https://pbs.twimg.com/media/HLDnbs2bwAA2QaB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f29d1912480>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HLEcVb8b0AA9AFD.jpg": {
       "status": "done",
@@ -2320,9 +2320,9 @@
       "referenced_by": [
         "20260619114340_twitter_com_Seviraine_status_2067936349240668666.json"
       ],
-      "last_updated": "2026-07-04T09:19:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619114340if_/https://pbs.twimg.com/media/HJwNWtCacAExKLi.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f83d30866f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-04T09:58:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619114340im_/https://pbs.twimg.com/media/HJwNWtCacAExKLi.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f29d07363c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HLKYelTbEAAlrEE.jpg": {
       "status": "done",
@@ -2406,9 +2406,9 @@
       "referenced_by": [
         "20260619124454_twitter_com_Seviraine_status_2067951760250147279.json"
       ],
-      "last_updated": "2026-07-04T09:19:07",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619124454/https://pbs.twimg.com/media/HLGmsPAbcAA2Hpo.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f83d1f61fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-04T09:58:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619124454im_/https://pbs.twimg.com/media/HLGmsPAbcAA2Hpo.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f29d18e61e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HLKubOabQAAbWTk.jpg": {
       "status": "done",
@@ -2529,9 +2529,9 @@
       "referenced_by": [
         "20260621165752_twitter_com_Seviraine_status_2068740195474985447.json"
       ],
-      "last_updated": "2026-07-04T09:19:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260621165752/https://pbs.twimg.com/media/HLWN4jYa8AAadOK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f83d1f61af0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-04T09:58:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260621165752im_/https://pbs.twimg.com/media/HLWN4jYa8AAadOK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f29d075c650>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HLV_HXuaQAEPWBx.jpg": {
       "status": "done",
@@ -2559,9 +2559,9 @@
       "referenced_by": [
         "20260621185418_twitter_com_Seviraine_status_2068769496207331638.json"
       ],
-      "last_updated": "2026-07-04T09:19:15",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260621185418/https://pbs.twimg.com/media/HLUb_p0awAEewyI.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f83d1f2b170>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-04T09:58:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260621185418im_/https://pbs.twimg.com/media/HLUb_p0awAEewyI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f29d18e46b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HLVtCKEWQAEf9CV.jpg": {
       "status": "done",
@@ -2822,9 +2822,9 @@
       "referenced_by": [
         "20260623164910_twitter_com_Seviraine_status_2069462781141864851.json"
       ],
-      "last_updated": "2026-07-04T09:19:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260623164910im_/https://pbs.twimg.com/media/HLggTuDb0AAlkNI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f83d31096a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-04T09:59:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260623164910im_/https://pbs.twimg.com/media/HLggTuDb0AAlkNI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f29d0736c00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HLjToPQXsAAUpsp.jpg": {
       "status": "done",
@@ -2838,9 +2838,9 @@
       "referenced_by": [
         "20260624093116_twitter_com_Seviraine_status_2069714968770125855.json"
       ],
-      "last_updated": "2026-07-04T09:19:22",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260624093116/https://pbs.twimg.com/media/HLkay5DXwAAinwa.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f83d3109ca0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-04T09:59:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260624093116im_/https://pbs.twimg.com/media/HLkay5DXwAAinwa.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f29d19114c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HLkcHsMXcAATI6b.jpg": {
       "status": "done",
@@ -5855,7 +5855,7 @@
       "last_updated": "2026-07-04T09:10:19"
     },
     "20260614170222_twitter_com_Seviraine_status_2066204613141995752.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKyiJVLbwAATXBG.jpg"
@@ -5865,7 +5865,7 @@
           "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-04T09:19:36",
+      "last_updated": "2026-07-04T09:58:09",
       "miss_count": 2
     },
     "20260614171303_twitter_com_Seviraine_status_2066207302919876975.json": {
@@ -6097,7 +6097,7 @@
       "last_updated": "2026-07-04T09:10:19"
     },
     "20260615051836_twitter_com_Seviraine_status_2066389892184023385.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HK1Kp8aWMAASUkF.jpg"
@@ -6107,7 +6107,7 @@
           "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-04T09:19:36",
+      "last_updated": "2026-07-04T09:58:16",
       "miss_count": 2
     },
     "20260615052128_twitter_com_Seviraine_status_2066390614716113198.json": {
@@ -6274,7 +6274,7 @@
       "last_updated": "2026-07-04T09:10:19"
     },
     "20260615084644_twitter_com_Seviraine_status_2066442271441187229.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKxZvIbakAEXDCZ.jpg"
@@ -6285,7 +6285,7 @@
           "https://pbs.twimg.com/profile_images/2065253109606330368/5CyC0utq_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-04T09:19:36",
+      "last_updated": "2026-07-04T09:58:18",
       "miss_count": 2
     },
     "20260615091827_twitter_com_Seviraine_status_2066450250412495222.json": {
