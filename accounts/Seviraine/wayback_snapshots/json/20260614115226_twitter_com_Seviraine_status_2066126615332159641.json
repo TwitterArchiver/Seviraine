@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066126615332159641",
+    "created_at": "2026-06-14T11:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066126615332159641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1922266728349995008",
+          "start": 3,
+          "username": "meowcissism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066126615332159641",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 648
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065901370687754376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @meowcissism: be nice to me pls i’m suicidal and dumb asf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066126615332159641",
+        "created_at": "2026-06-14T11:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066126615332159641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1922266728349995008",
+              "start": 3,
+              "username": "meowcissism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066126615332159641",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 648
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065901370687754376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @meowcissism: be nice to me pls i’m suicidal and dumb asf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922266728349995008",
+        "conversation_id": "2065901370687754376",
+        "created_at": "2026-06-13T20:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T21:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065901370687754376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065901370687754376",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 14850,
+          "like_count": 1530,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 648
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "be nice to me pls i’m suicidal and dumb asf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "辱男辱女地域黑",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T12:24:44.000Z",
+        "description": "8teen 🐾 sweet sacrificial lamb",
+        "id": "1922266728349995008",
+        "location": "strictly sfw 🪽only account !",
+        "name": "ʚɞ",
+        "pinned_tweet_id": "1984736480460231037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949164262250700800/1JpBY3CP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4032,
+          "following_count": 1048,
+          "like_count": 48127,
+          "listed_count": 13,
+          "media_count": 11,
+          "tweet_count": 564
+        },
+        "username": "meowcissism",
+        "verified": false
+      }
+    ]
+  }
+}

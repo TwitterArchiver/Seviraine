@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2069786400845898054",
+    "created_at": "2026-06-24T16:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069818271826858028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058029942198374400",
+          "start": 0,
+          "username": "yudia666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069818271826858028",
+    "in_reply_to_user_id": "2058029942198374400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069786400845898054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yudia666 水晶城堡，牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069786396445843457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlbwukXIAEzESn.jpg",
+        "width": 1045
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2069786400845898054",
+        "created_at": "2026-06-24T16:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069818271826858028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058029942198374400",
+              "start": 0,
+              "username": "yudia666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069818271826858028",
+        "in_reply_to_user_id": "2058029942198374400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069786400845898054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yudia666 水晶城堡，牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069786396445843457"
+          ]
+        },
+        "author_id": "2058029942198374400",
+        "conversation_id": "2069786400845898054",
+        "created_at": "2026-06-24T14:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069786400845898054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ErvkkmyXL",
+              "end": 23,
+              "expanded_url": "https://x.com/yudia666/status/2069786400845898054/photo/1",
+              "media_key": "3_2069786396445843457",
+              "start": 0,
+              "url": "https://t.co/2ErvkkmyXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069786400845898054",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2ErvkkmyXL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 221,
+          "like_count": 885,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 350
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T03:39:58.000Z",
+        "description": "年龄不详,性别:尸体,音乐重度依赖,最爱的音乐作者:Crystal Castles,💊🍺🚬,碎碎念,负能量？几乎无精力主动社交,不要把我当傻逼,看见有互关发帖就点赞tg:YUDAnb8964 /62",
+        "id": "2058029942198374400",
+        "location": "“第二の世界”",
+        "name": "𝖞𝖚𝖉𝖆(𝖋𝖔)",
+        "pinned_tweet_id": "2068835774074884255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 106,
+          "like_count": 4135,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "yudia666",
+        "verified": false
+      }
+    ]
+  }
+}

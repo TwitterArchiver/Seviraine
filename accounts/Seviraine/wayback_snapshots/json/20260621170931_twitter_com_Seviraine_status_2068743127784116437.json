@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2068743127784116437",
+    "created_at": "2026-06-21T17:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068743127784116437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2002670122767667200",
+          "start": 3,
+          "username": "Lotus_LianHua04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068743127784116437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068467561956573445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lotus_LianHua04: 要是你现在戒药把钱省下来，一个月之后你不就可以有钱嗑药了么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2068743127784116437",
+        "created_at": "2026-06-21T17:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068743127784116437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2002670122767667200",
+              "start": 3,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068743127784116437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068467561956573445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lotus_LianHua04: 要是你现在戒药把钱省下来，一个月之后你不就可以有钱嗑药了么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2068467561956573445",
+        "created_at": "2026-06-20T22:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T23:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068467561956573445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068467561956573445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1870,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "要是你现在戒药把钱省下来，一个月之后你不就可以有钱嗑药了么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 199,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 26,
+          "like_count": 1044,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 2284
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

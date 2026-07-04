@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066899709495857153"
+      ],
+      "media_source_tweet_id": [
+        "2066900517792653786"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "conversation_id": "2067182657243656409",
+    "created_at": "2026-06-17T09:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067182657243656409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1408028409599467521",
+          "start": 3,
+          "username": "AngelSuicide999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h8bjCUgGzw",
+          "end": 44,
+          "expanded_url": "https://x.com/AngelSuicide999/status/2066900517792653786/video/1",
+          "media_key": "13_2066899709495857153",
+          "start": 21,
+          "url": "https://t.co/h8bjCUgGzw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067182657243656409",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 264
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066900517792653786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelSuicide999: https://t.co/h8bjCUgGzw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11866,
+        "height": 1080,
+        "media_key": "13_2066899709495857153",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066899709495857153/img/fxP3EmA2N77eA7H-.jpg",
+        "public_metrics": {
+          "view_count": 8101
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066899709495857153/vid/avc1/360x270/CSOGJ9VbPubUWCC2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066899709495857153/vid/avc1/480x360/mQSjgmerLzXVJRdb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066899709495857153/vid/avc1/960x720/--IYRiljOYHYav1U.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066899709495857153/pl/L_iIEVXmmv9_V18m.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066899709495857153"
+          ],
+          "media_source_tweet_id": [
+            "2066900517792653786"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "conversation_id": "2067182657243656409",
+        "created_at": "2026-06-17T09:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067182657243656409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1408028409599467521",
+              "start": 3,
+              "username": "AngelSuicide999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8bjCUgGzw",
+              "end": 44,
+              "expanded_url": "https://x.com/AngelSuicide999/status/2066900517792653786/video/1",
+              "media_key": "13_2066899709495857153",
+              "start": 21,
+              "url": "https://t.co/h8bjCUgGzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067182657243656409",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066900517792653786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelSuicide999: https://t.co/h8bjCUgGzw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066899709495857153"
+          ]
+        },
+        "author_id": "1408028409599467521",
+        "conversation_id": "2066900517792653786",
+        "created_at": "2026-06-16T15:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066900517792653786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8bjCUgGzw",
+              "end": 23,
+              "expanded_url": "https://x.com/AngelSuicide999/status/2066900517792653786/video/1",
+              "media_key": "13_2066899709495857153",
+              "start": 0,
+              "url": "https://t.co/h8bjCUgGzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066900517792653786",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 22471,
+          "like_count": 1332,
+          "quote_count": 14,
+          "reply_count": 6,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/h8bjCUgGzw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo我会回fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 171,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 136
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T11:45:17.000Z",
+        "description": "⁡Hello world(＞ヮ＜)🩸.⋆♱⁡\n⁡どこかに揺蕩う。？\n⁡ADHDおとこの娘クソガキメンヘラ()\n最強の漢🔥.⋆♱\nパソコンポチポチ(꜆꜄꜆^._.^)꜆꜄꜆\n#angelsuicidecore",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 86,
+                "tag": "angelsuicidecore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tunecore.co.jp/artists/angels…",
+                "end": 23,
+                "expanded_url": "https://www.tunecore.co.jp/artists/angelsuicide999",
+                "start": 0,
+                "url": "https://t.co/1XH3J5n5Au"
+              }
+            ]
+          }
+        },
+        "id": "1408028409599467521",
+        "name": "देवदूत आत्महत्या",
+        "pinned_tweet_id": "2050182189338513881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330628609605632/E029CVB5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34576,
+          "following_count": 2,
+          "like_count": 91220,
+          "listed_count": 96,
+          "media_count": 953,
+          "tweet_count": 3751
+        },
+        "url": "https://t.co/1XH3J5n5Au",
+        "username": "AngelSuicide999",
+        "verified": false
+      }
+    ]
+  }
+}

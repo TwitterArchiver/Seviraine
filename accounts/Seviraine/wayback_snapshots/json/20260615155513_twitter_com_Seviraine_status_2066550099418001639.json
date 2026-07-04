@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066550096431550464"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066469199963414754",
+    "created_at": "2026-06-15T15:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066550099418001639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865480322978349056",
+          "start": 0,
+          "username": "CharaG51669"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IEpXt5w0ug",
+          "end": 44,
+          "expanded_url": "https://x.com/Seviraine/status/2066550099418001639/photo/1",
+          "media_key": "3_2066550096431550464",
+          "start": 21,
+          "url": "https://t.co/IEpXt5w0ug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066550099418001639",
+    "in_reply_to_user_id": "1865480322978349056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066469199963414754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharaG51669 哎！你好萌呀！ https://t.co/IEpXt5w0ug"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_2066550096431550464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3cXRhaEAAG-_i.jpg",
+        "width": 972
+      },
+      {
+        "duration_ms": 3282,
+        "height": 1280,
+        "media_key": "7_2066469173761564672",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066469173761564672/pu/img/YhfcyoGEbIpfkeeV.jpg",
+        "public_metrics": {
+          "view_count": 86
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066469173761564672/pu/vid/avc1/320x568/AekXznmDt5wW_1TM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066469173761564672/pu/vid/avc1/480x852/exgmVTB-omaeAlH1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066469173761564672/pu/vid/avc1/720x1280/PcDqC6FosVXjFesN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066469173761564672/pu/pl/G3jwPWT0wERfYCjb.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066550096431550464"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066469199963414754",
+        "created_at": "2026-06-15T15:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066550099418001639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865480322978349056",
+              "start": 0,
+              "username": "CharaG51669"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEpXt5w0ug",
+              "end": 44,
+              "expanded_url": "https://x.com/Seviraine/status/2066550099418001639/photo/1",
+              "media_key": "3_2066550096431550464",
+              "start": 21,
+              "url": "https://t.co/IEpXt5w0ug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066550099418001639",
+        "in_reply_to_user_id": "1865480322978349056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066469199963414754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharaG51669 哎！你好萌呀！ https://t.co/IEpXt5w0ug"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066469173761564672"
+          ]
+        },
+        "author_id": "1865480322978349056",
+        "conversation_id": "2066469199963414754",
+        "created_at": "2026-06-15T10:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066469199963414754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qiyRHVLQU7",
+              "end": 29,
+              "expanded_url": "https://x.com/CharaG51669/status/2066469199963414754/video/1",
+              "media_key": "7_2066469173761564672",
+              "start": 6,
+              "url": "https://t.co/qiyRHVLQU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066469199963414754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熏眼睛喵😭 https://t.co/qiyRHVLQU7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨重焦重抑 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 祝您早日活全家",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 135,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 83
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T19:36:09.000Z",
+        "description": "06/INFP/重抑郁/混合型焦虑 /有老公/od/割手/抽烟/欢迎互fo/欢迎私信/现居深圳，欢迎小萌物们找我玩！",
+        "id": "1865480322978349056",
+        "name": "OnoderaYuu",
+        "pinned_tweet_id": "2065285209256600058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865662167120564224/GiHXnwwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 91,
+          "like_count": 676,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 237
+        },
+        "username": "CharaG51669",
+        "verified": false
+      }
+    ]
+  }
+}

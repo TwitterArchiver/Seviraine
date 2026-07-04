@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068089006966136832",
+        "3_2068089006966046720",
+        "3_2068089006970318848",
+        "3_2068089006961958912"
+      ],
+      "media_source_tweet_id": [
+        "2068089029216887043",
+        "2068089029216887043",
+        "2068089029216887043",
+        "2068089029216887043"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "conversation_id": "2068250122065187136",
+    "created_at": "2026-06-20T08:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T09:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068250122065187136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1924297918753943552",
+          "start": 3,
+          "username": "k8sama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WmJRhlG2hx",
+          "end": 38,
+          "expanded_url": "https://x.com/k8sama/status/2068089029216887043/photo/1",
+          "media_key": "3_2068089006966136832",
+          "start": 15,
+          "url": "https://t.co/WmJRhlG2hx"
+        },
+        {
+          "display_url": "pic.x.com/WmJRhlG2hx",
+          "end": 38,
+          "expanded_url": "https://x.com/k8sama/status/2068089029216887043/photo/1",
+          "media_key": "3_2068089006966046720",
+          "start": 15,
+          "url": "https://t.co/WmJRhlG2hx"
+        },
+        {
+          "display_url": "pic.x.com/WmJRhlG2hx",
+          "end": 38,
+          "expanded_url": "https://x.com/k8sama/status/2068089029216887043/photo/1",
+          "media_key": "3_2068089006970318848",
+          "start": 15,
+          "url": "https://t.co/WmJRhlG2hx"
+        },
+        {
+          "display_url": "pic.x.com/WmJRhlG2hx",
+          "end": 38,
+          "expanded_url": "https://x.com/k8sama/status/2068089029216887043/photo/1",
+          "media_key": "3_2068089006961958912",
+          "start": 15,
+          "url": "https://t.co/WmJRhlG2hx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068250122065187136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068089029216887043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k8sama: 死ね https://t.co/WmJRhlG2hx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2068089006966136832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNT_qAbYAA8GRV.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2068089006966046720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNT_qAaAAAEX4D.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2068089006970318848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNT_qBbMAAMVOk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2068089006961958912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNT_p_boAAUShR.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068089006966136832",
+            "3_2068089006966046720",
+            "3_2068089006970318848",
+            "3_2068089006961958912"
+          ],
+          "media_source_tweet_id": [
+            "2068089029216887043",
+            "2068089029216887043",
+            "2068089029216887043",
+            "2068089029216887043"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "conversation_id": "2068250122065187136",
+        "created_at": "2026-06-20T08:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068250122065187136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1924297918753943552",
+              "start": 3,
+              "username": "k8sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WmJRhlG2hx",
+              "end": 38,
+              "expanded_url": "https://x.com/k8sama/status/2068089029216887043/photo/1",
+              "media_key": "3_2068089006966136832",
+              "start": 15,
+              "url": "https://t.co/WmJRhlG2hx"
+            },
+            {
+              "display_url": "pic.x.com/WmJRhlG2hx",
+              "end": 38,
+              "expanded_url": "https://x.com/k8sama/status/2068089029216887043/photo/1",
+              "media_key": "3_2068089006966046720",
+              "start": 15,
+              "url": "https://t.co/WmJRhlG2hx"
+            },
+            {
+              "display_url": "pic.x.com/WmJRhlG2hx",
+              "end": 38,
+              "expanded_url": "https://x.com/k8sama/status/2068089029216887043/photo/1",
+              "media_key": "3_2068089006970318848",
+              "start": 15,
+              "url": "https://t.co/WmJRhlG2hx"
+            },
+            {
+              "display_url": "pic.x.com/WmJRhlG2hx",
+              "end": 38,
+              "expanded_url": "https://x.com/k8sama/status/2068089029216887043/photo/1",
+              "media_key": "3_2068089006961958912",
+              "start": 15,
+              "url": "https://t.co/WmJRhlG2hx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068250122065187136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068089029216887043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k8sama: 死ね https://t.co/WmJRhlG2hx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068089006966136832",
+            "3_2068089006966046720",
+            "3_2068089006970318848",
+            "3_2068089006961958912"
+          ]
+        },
+        "author_id": "1924297918753943552",
+        "conversation_id": "2068089029216887043",
+        "created_at": "2026-06-19T21:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T22:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068089029216887043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WmJRhlG2hx",
+              "end": 26,
+              "expanded_url": "https://x.com/k8sama/status/2068089029216887043/photo/1",
+              "media_key": "3_2068089006966136832",
+              "start": 3,
+              "url": "https://t.co/WmJRhlG2hx"
+            },
+            {
+              "display_url": "pic.x.com/WmJRhlG2hx",
+              "end": 26,
+              "expanded_url": "https://x.com/k8sama/status/2068089029216887043/photo/1",
+              "media_key": "3_2068089006966046720",
+              "start": 3,
+              "url": "https://t.co/WmJRhlG2hx"
+            },
+            {
+              "display_url": "pic.x.com/WmJRhlG2hx",
+              "end": 26,
+              "expanded_url": "https://x.com/k8sama/status/2068089029216887043/photo/1",
+              "media_key": "3_2068089006970318848",
+              "start": 3,
+              "url": "https://t.co/WmJRhlG2hx"
+            },
+            {
+              "display_url": "pic.x.com/WmJRhlG2hx",
+              "end": 26,
+              "expanded_url": "https://x.com/k8sama/status/2068089029216887043/photo/1",
+              "media_key": "3_2068089006961958912",
+              "start": 3,
+              "url": "https://t.co/WmJRhlG2hx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068089029216887043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 12468,
+          "like_count": 375,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "死ね https://t.co/WmJRhlG2hx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 190,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T02:56:49.000Z",
+        "description": "悲しみを愛に変えましょう 。\n\n🤍🐱https://t.co/aPmmrIW7E8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k8sama1",
+                "end": 41,
+                "expanded_url": "https://ngl.link/k8sama1",
+                "start": 18,
+                "url": "https://t.co/aPmmrIW7E8"
+              }
+            ]
+          }
+        },
+        "id": "1924297918753943552",
+        "location": "Japan",
+        "name": "猫猫神",
+        "pinned_tweet_id": "2027275543058755756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019700734355550209/SZXVFq0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5017,
+          "following_count": 0,
+          "like_count": 305,
+          "listed_count": 7,
+          "media_count": 59,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "k8sama",
+        "verified": false
+      }
+    ]
+  }
+}

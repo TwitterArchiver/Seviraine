@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065580543882788864"
+      ],
+      "media_source_tweet_id": [
+        "2065580547435266255"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066450297007038727",
+    "created_at": "2026-06-15T09:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066450297007038727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2058312009695846400",
+          "start": 3,
+          "username": "FingerInUrBum"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wb43UHBqZ0",
+          "end": 42,
+          "expanded_url": "https://x.com/FingerInUrBum/status/2065580547435266255/photo/1",
+          "media_key": "3_2065580543882788864",
+          "start": 19,
+          "url": "https://t.co/Wb43UHBqZ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066450297007038727",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3523
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065580547435266255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FingerInUrBum: https://t.co/Wb43UHBqZ0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 566,
+        "media_key": "3_2065580543882788864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKpqj40XgAAxAK8.jpg",
+        "width": 805
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065580543882788864"
+          ],
+          "media_source_tweet_id": [
+            "2065580547435266255"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066450297007038727",
+        "created_at": "2026-06-15T09:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066450297007038727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2058312009695846400",
+              "start": 3,
+              "username": "FingerInUrBum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wb43UHBqZ0",
+              "end": 42,
+              "expanded_url": "https://x.com/FingerInUrBum/status/2065580547435266255/photo/1",
+              "media_key": "3_2065580543882788864",
+              "start": 19,
+              "url": "https://t.co/Wb43UHBqZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066450297007038727",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3523
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065580547435266255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FingerInUrBum: https://t.co/Wb43UHBqZ0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065580543882788864"
+          ]
+        },
+        "author_id": "2058312009695846400",
+        "conversation_id": "2065580547435266255",
+        "created_at": "2026-06-12T23:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T00:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065580547435266255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wb43UHBqZ0",
+              "end": 23,
+              "expanded_url": "https://x.com/FingerInUrBum/status/2065580547435266255/photo/1",
+              "media_key": "3_2065580543882788864",
+              "start": 0,
+              "url": "https://t.co/Wb43UHBqZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065580547435266255",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2623,
+          "impression_count": 147280,
+          "like_count": 22175,
+          "quote_count": 150,
+          "reply_count": 31,
+          "retweet_count": 3523
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Wb43UHBqZ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨重焦重抑 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 祝您早日活全家",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 128,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 72
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T22:21:36.000Z",
+        "description": "‧˚꒰🛸୭ ˚. ᵎᵎ `Juniper` ˎˊ˗\n゛ ⸝⸝.ᐟ⋆ 17 ⋮ ⌗ ┆ #profic ᶻ 𝗓 𐰁\n@joobinsleftnut sussed💔\ntt: yaoipal",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "profic"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "joobinsleftnut"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fr1edpickle.straw.page",
+                "end": 23,
+                "expanded_url": "https://fr1edpickle.straw.page",
+                "start": 0,
+                "url": "https://t.co/vA7kbe8YKV"
+              }
+            ]
+          }
+        },
+        "id": "2058312009695846400",
+        "location": "Your mums deep vagina",
+        "name": "friedpickle THE raperoomf",
+        "pinned_tweet_id": "2065381942111920458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059089609338822656/5xFb17V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 221,
+          "like_count": 363,
+          "listed_count": 8,
+          "media_count": 61,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/vA7kbe8YKV",
+        "username": "FingerInUrBum",
+        "verified": false
+      }
+    ]
+  }
+}

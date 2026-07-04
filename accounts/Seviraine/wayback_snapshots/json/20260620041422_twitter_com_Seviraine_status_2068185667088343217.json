@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2068185667088343217",
+    "created_at": "2026-06-20T04:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T05:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068185667088343217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2032802107745824768",
+          "start": 3,
+          "username": "guangzhouxidu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068185667088343217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042174218754994667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guangzhouxidu: 没收完你们的小药丸，下班过我自己的幸福美满公务员生活再发个视频嘲讽一下你们精神病群体甚是惬意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2068185667088343217",
+        "created_at": "2026-06-20T04:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068185667088343217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2032802107745824768",
+              "start": 3,
+              "username": "guangzhouxidu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068185667088343217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042174218754994667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guangzhouxidu: 没收完你们的小药丸，下班过我自己的幸福美满公务员生活再发个视频嘲讽一下你们精神病群体甚是惬意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032802107745824768",
+        "conversation_id": "2042174218754994667",
+        "created_at": "2026-04-09T09:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042174218754994667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sunset__3000/s…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/Sunset__3000/status/2042100920209801222",
+              "start": 47,
+              "url": "https://t.co/1mB7AJyZtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042174218754994667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7222,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042100920209801222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没收完你们的小药丸，下班过我自己的幸福美满公务员生活再发个视频嘲讽一下你们精神病群体甚是惬意 https://t.co/1mB7AJyZtA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 190,
+          "like_count": 623,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T12:53:56.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，药圈民办派出所，私信长期接投稿 报案，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2032802107745824768",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032802565499637760/AQs27st5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 38,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "guangzhouxidu",
+        "verified": false
+      }
+    ]
+  }
+}

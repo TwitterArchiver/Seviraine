@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066373683254608369",
+    "created_at": "2026-06-15T04:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066373683254608369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053707183427366912",
+          "start": 3,
+          "username": "meyu_121"
+        },
+        {
+          "end": 29,
+          "id": "1477342523555135490",
+          "start": 14,
+          "username": "torontobigface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066373683254608369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066348549722574879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meyu_121: @torontobigface os好甜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066373683254608369",
+        "created_at": "2026-06-15T04:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066373683254608369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053707183427366912",
+              "start": 3,
+              "username": "meyu_121"
+            },
+            {
+              "end": 29,
+              "id": "1477342523555135490",
+              "start": 14,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066373683254608369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066348549722574879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meyu_121: @torontobigface os好甜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053707183427366912",
+        "conversation_id": "2066331116143796345",
+        "created_at": "2026-06-15T02:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066348549722574879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477342523555135490",
+              "start": 0,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066348549722574879",
+        "in_reply_to_user_id": "1477342523555135490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 446,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066331116143796345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@torontobigface os好甜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨重焦重抑 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 祝您早日活全家",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 107,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 52
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T05:22:11.000Z",
+        "description": "HongKong🇭🇰∥ㅤod 割手手ㅤ∥ㅤㅤㅤㅤ神聖かまってちゃん 李志 beyondㅤ∥ㅤ愛人 @xuanying114514\nㅤ∥rip @Yume_121_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "xuanying114514"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "Yume_121_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yume121_kawa?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@yume121_kawa?si=Kvl_r-M9N3u6C4DA",
+                "start": 0,
+                "url": "https://t.co/uYCcZZSV0n"
+              }
+            ]
+          }
+        },
+        "id": "2053707183427366912",
+        "location": "まいちゃん全部ゆめ",
+        "name": "Yumeかまってちゃん🎸",
+        "pinned_tweet_id": "2053715766537814126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306748194631680/YoHLf35n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 185,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 351
+        },
+        "url": "https://t.co/uYCcZZSV0n",
+        "username": "meyu_121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNcDSW 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2XsnFaH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNcDSW"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2XsnFaH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrn0gco"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，多伦多",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "2065373662128013403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004728054199799808/7q5HpT1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794146,
+          "following_count": 244,
+          "like_count": 4668,
+          "listed_count": 2460,
+          "media_count": 6686,
+          "tweet_count": 19250
+        },
+        "url": "https://t.co/t3lSrn0gco",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

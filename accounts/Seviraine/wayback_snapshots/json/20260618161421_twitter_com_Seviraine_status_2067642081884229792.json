@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2067642081884229792",
+    "created_at": "2026-06-18T16:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067642081884229792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1596474007775158272",
+          "start": 2,
+          "username": "Shu10oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067642081884229792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和@Shu10oo 是胡巴孝女，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2067642081884229792",
+        "created_at": "2026-06-18T16:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067642081884229792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1596474007775158272",
+              "start": 2,
+              "username": "Shu10oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067642081884229792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和@Shu10oo 是胡巴孝女，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo我会回fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 175,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 172
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T12:00:49.000Z",
+        "description": "不安。\n查成分互fo\n闺蜜@Sssse9uv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Sssse9uv"
+              }
+            ]
+          }
+        },
+        "id": "1596474007775158272",
+        "name": "作为不会悲伤的人类",
+        "pinned_tweet_id": "2051460103690449043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053864426764386304/XcegA562_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 94,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 373
+        },
+        "username": "Shu10oo",
+        "verified": false
+      }
+    ]
+  }
+}

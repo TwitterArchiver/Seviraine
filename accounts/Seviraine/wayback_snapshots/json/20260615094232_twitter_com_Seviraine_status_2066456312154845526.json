@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066169528250458112"
+      ],
+      "media_source_tweet_id": [
+        "2066170079738548712"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066456312154845526",
+    "created_at": "2026-06-15T09:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066456312154845526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1408028409599467521",
+          "start": 3,
+          "username": "AngelSuicide999"
+        }
+      ],
+      "urls": [
+        {
+          "description": "天使自殺, 自殺天使 · うるさい一人にさせろ · 曲 · 2026",
+          "display_url": "open.spotify.com/intl-ja/track/…",
+          "end": 44,
+          "expanded_url": "https://open.spotify.com/intl-ja/track/3BPIik3jmJuLSJWwpEyGOp?si=6fa609f8c41a43f2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2066170082317996032/6GzDFUIa?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2066170082317996032/6GzDFUIa?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 21,
+          "status": 200,
+          "title": "全てがノイズ (feat. 自殺天使)",
+          "unwound_url": "https://open.spotify.com/intl-ja/track/3BPIik3jmJuLSJWwpEyGOp?si=6fa609f8c41a43f2",
+          "url": "https://t.co/fEIVchFFZK"
+        },
+        {
+          "display_url": "pic.x.com/ydyU2hpj9e",
+          "end": 68,
+          "expanded_url": "https://x.com/AngelSuicide999/status/2066170079738548712/video/1",
+          "media_key": "13_2066169528250458112",
+          "start": 45,
+          "url": "https://t.co/ydyU2hpj9e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066456312154845526",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066170079738548712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelSuicide999: https://t.co/fEIVchFFZK https://t.co/ydyU2hpj9e"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9000,
+        "height": 1080,
+        "media_key": "13_2066169528250458112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066169528250458112/img/GhbbixMrted4Uluh.jpg",
+        "public_metrics": {
+          "view_count": 1008
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066169528250458112/vid/avc1/540x270/5FYuMRoy5euBRx_A.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066169528250458112/vid/avc1/720x360/Cc5e7TDaiSyRmtOu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066169528250458112/vid/avc1/1440x720/mvqyqaGLhqwc3maz.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066169528250458112/pl/Gsbk6W_MANeNHNvJ.m3u8?tag=14"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066169528250458112"
+          ],
+          "media_source_tweet_id": [
+            "2066170079738548712"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066456312154845526",
+        "created_at": "2026-06-15T09:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066456312154845526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1408028409599467521",
+              "start": 3,
+              "username": "AngelSuicide999"
+            }
+          ],
+          "urls": [
+            {
+              "description": "天使自殺, 自殺天使 · うるさい一人にさせろ · 曲 · 2026",
+              "display_url": "open.spotify.com/intl-ja/track/…",
+              "end": 44,
+              "expanded_url": "https://open.spotify.com/intl-ja/track/3BPIik3jmJuLSJWwpEyGOp?si=6fa609f8c41a43f2",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2066170082317996032/6GzDFUIa?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066170082317996032/6GzDFUIa?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "全てがノイズ (feat. 自殺天使)",
+              "unwound_url": "https://open.spotify.com/intl-ja/track/3BPIik3jmJuLSJWwpEyGOp?si=6fa609f8c41a43f2",
+              "url": "https://t.co/fEIVchFFZK"
+            },
+            {
+              "display_url": "pic.x.com/ydyU2hpj9e",
+              "end": 68,
+              "expanded_url": "https://x.com/AngelSuicide999/status/2066170079738548712/video/1",
+              "media_key": "13_2066169528250458112",
+              "start": 45,
+              "url": "https://t.co/ydyU2hpj9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066456312154845526",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066170079738548712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelSuicide999: https://t.co/fEIVchFFZK https://t.co/ydyU2hpj9e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066169528250458112"
+          ]
+        },
+        "author_id": "1408028409599467521",
+        "conversation_id": "2066170079738548712",
+        "created_at": "2026-06-14T14:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066170079738548712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "天使自殺, 自殺天使 · うるさい一人にさせろ · 曲 · 2026",
+              "display_url": "open.spotify.com/intl-ja/track/…",
+              "end": 23,
+              "expanded_url": "https://open.spotify.com/intl-ja/track/3BPIik3jmJuLSJWwpEyGOp?si=6fa609f8c41a43f2",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2066170082317996032/6GzDFUIa?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066170082317996032/6GzDFUIa?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "全てがノイズ (feat. 自殺天使)",
+              "unwound_url": "https://open.spotify.com/intl-ja/track/3BPIik3jmJuLSJWwpEyGOp?si=6fa609f8c41a43f2",
+              "url": "https://t.co/fEIVchFFZK"
+            },
+            {
+              "display_url": "pic.x.com/ydyU2hpj9e",
+              "end": 47,
+              "expanded_url": "https://x.com/AngelSuicide999/status/2066170079738548712/video/1",
+              "media_key": "13_2066169528250458112",
+              "start": 24,
+              "url": "https://t.co/ydyU2hpj9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066170079738548712",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3125,
+          "like_count": 182,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fEIVchFFZK https://t.co/ydyU2hpj9e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨重焦重抑 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 祝您早日活全家",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 130,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 78
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T11:45:17.000Z",
+        "description": "⁡Hello world(＞ヮ＜)🩸.⋆♱⁡\n⁡どこかに揺蕩う。？\n⁡ADHDおとこの娘クソガキメンヘラ()\n最強の漢🔥.⋆♱\nパソコンポチポチ(꜆꜄꜆^._.^)꜆꜄꜆\n#angelsuicidecore",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 86,
+                "tag": "angelsuicidecore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tunecore.co.jp/artists/angels…",
+                "end": 23,
+                "expanded_url": "https://www.tunecore.co.jp/artists/angelsuicide999",
+                "start": 0,
+                "url": "https://t.co/1XH3J5n5Au"
+              }
+            ]
+          }
+        },
+        "id": "1408028409599467521",
+        "name": "देवदूत आत्महत्या",
+        "pinned_tweet_id": "2050182189338513881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330628609605632/E029CVB5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34540,
+          "following_count": 2,
+          "like_count": 91264,
+          "listed_count": 96,
+          "media_count": 951,
+          "tweet_count": 3746
+        },
+        "url": "https://t.co/1XH3J5n5Au",
+        "username": "AngelSuicide999",
+        "verified": false
+      }
+    ]
+  }
+}

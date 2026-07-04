@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066131136053756374",
+    "created_at": "2026-06-14T12:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066131136053756374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1648429473530773504",
+          "start": 3,
+          "username": "LonelyYan77"
+        },
+        {
+          "end": 29,
+          "id": "1824394555904626689",
+          "start": 17,
+          "username": "xiaoxun2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066131136053756374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027000423295693183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LonelyYan77: @xiaoxun2007 停停停...这是外网 什么东西都有的接受不了自己回墙里行不行墙内审核墙内打码 我从来没见哪个自伤博主在x里给打码的这样的事情很多 并且很多都是因为快感上瘾或心理已经扭曲看到血喜欢血才自残 明明人已经这么痛苦能把自己伤害…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066131136053756374",
+        "created_at": "2026-06-14T12:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066131136053756374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1648429473530773504",
+              "start": 3,
+              "username": "LonelyYan77"
+            },
+            {
+              "end": 29,
+              "id": "1824394555904626689",
+              "start": 17,
+              "username": "xiaoxun2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066131136053756374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027000423295693183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LonelyYan77: @xiaoxun2007 停停停...这是外网 什么东西都有的接受不了自己回墙里行不行墙内审核墙内打码 我从来没见哪个自伤博主在x里给打码的这样的事情很多 并且很多都是因为快感上瘾或心理已经扭曲看到血喜欢血才自残 明明人已经这么痛苦能把自己伤害…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648429473530773504",
+        "conversation_id": "2026953211396190426",
+        "created_at": "2026-02-26T12:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T13:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027000423295693183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824394555904626689",
+              "start": 0,
+              "username": "xiaoxun2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027000423295693183",
+        "in_reply_to_user_id": "1824394555904626689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1027,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026953211396190426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxun2007 停停停...这是外网 什么东西都有的接受不了自己回墙里行不行墙内审核墙内打码 我从来没见哪个自伤博主在x里给打码的这样的事情很多 并且很多都是因为快感上瘾或心理已经扭曲看到血喜欢血才自残 明明人已经这么痛苦能把自己伤害到这种程度了 还要面对你们这样的恶意 想把人逼死是吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "辱男辱女地域黑",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T20:53:52.000Z",
+        "description": "4i/1i丨Dom/S丨switch丨柒柒 @wjh996911 丨情侣丨接推广看喜好随缘丨看心情更新丨匿名: https://t.co/Doc7OBQ6QN丨喜欢有礼貌的·我们真的不NTR！不爱看建议划走丨专注我的唐氏生活😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "wjh996911"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kurovoi",
+                "end": 79,
+                "expanded_url": "http://ngl.link/kurovoi",
+                "start": 56,
+                "url": "https://t.co/Doc7OBQ6QN"
+              }
+            ]
+          }
+        },
+        "id": "1648429473530773504",
+        "location": "🚪128绿v 解锁现生号朋友圈",
+        "name": "言",
+        "pinned_tweet_id": "1986822958481023382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065662418009886720/5VNpvhgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37126,
+          "following_count": 44,
+          "like_count": 611,
+          "listed_count": 103,
+          "media_count": 141,
+          "tweet_count": 324
+        },
+        "username": "LonelyYan77",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:35:50.000Z",
+        "description": "清水推 † 前世@xiaoxun519🕸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "xiaoxun519"
+              }
+            ]
+          }
+        },
+        "id": "1824394555904626689",
+        "name": "潯",
+        "pinned_tweet_id": "1980635594175967338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037562880737021952/duVYz3fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 278,
+          "like_count": 2730,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 1832
+        },
+        "username": "xiaoxun2007",
+        "verified": false
+      }
+    ]
+  }
+}

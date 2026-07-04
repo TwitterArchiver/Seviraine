@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2067464863107158155",
+    "created_at": "2026-06-18T18:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067675872975593838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946149148878852096",
+          "start": 0,
+          "username": "todorokidoya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067675872975593838",
+    "in_reply_to_user_id": "1946149148878852096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067464863107158155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@todorokidoya1 这个最好喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067464858543837184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEcVb8b0AA9AFD.jpg",
+        "width": 1479
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2067464863107158155",
+        "created_at": "2026-06-18T18:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067675872975593838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946149148878852096",
+              "start": 0,
+              "username": "todorokidoya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067675872975593838",
+        "in_reply_to_user_id": "1946149148878852096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067464863107158155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@todorokidoya1 这个最好喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067464858543837184"
+          ]
+        },
+        "author_id": "1946149148878852096",
+        "conversation_id": "2067464863107158155",
+        "created_at": "2026-06-18T04:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067464863107158155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bgt4wtqzFr",
+              "end": 25,
+              "expanded_url": "https://x.com/todorokidoya1/status/2067464863107158155/photo/1",
+              "media_key": "3_2067464858543837184",
+              "start": 2,
+              "url": "https://t.co/Bgt4wtqzFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067464863107158155",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥲 https://t.co/Bgt4wtqzFr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo我会回fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 178,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 184
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "如此懦弱…\n\nhttps://t.co/bOs5bg4qr3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0o%E2%80%860",
+                "end": 30,
+                "expanded_url": "https://ngl.link/0o%E2%80%860",
+                "start": 7,
+                "url": "https://t.co/bOs5bg4qr3"
+              }
+            ]
+          }
+        },
+        "id": "1946149148878852096",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "0o0",
+        "pinned_tweet_id": "2067029724774441084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 368,
+          "like_count": 28808,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 2053
+        },
+        "username": "todorokidoya1",
+        "verified": true
+      }
+    ]
+  }
+}

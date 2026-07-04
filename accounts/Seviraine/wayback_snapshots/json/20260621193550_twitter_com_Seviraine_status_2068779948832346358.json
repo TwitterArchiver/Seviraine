@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2068779948832346358",
+    "created_at": "2026-06-21T19:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T20:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068779948832346358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1638959586140098560",
+          "start": 3,
+          "username": "fanwei_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068779948832346358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041194964177359017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fanwei_17: 水晶城堡怪不得是嗑药乐队啊。。嗑了药听就是爽…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2068779948832346358",
+        "created_at": "2026-06-21T19:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T20:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068779948832346358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1638959586140098560",
+              "start": 3,
+              "username": "fanwei_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068779948832346358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041194964177359017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fanwei_17: 水晶城堡怪不得是嗑药乐队啊。。嗑了药听就是爽…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2041194964177359017",
+        "created_at": "2026-04-06T16:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041194964177359017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041194964177359017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5018,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "水晶城堡怪不得是嗑药乐队啊。。嗑了药听就是爽…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 199,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互fo评论/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 1553,
+          "like_count": 5552,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 2500
+        },
+        "url": "",
+        "username": "fanwei_17",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2072168707384549683",
+    "created_at": "2026-07-01T04:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072168707384549683"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/26suversider/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/26suversider/status/2072010269413552305",
+          "start": 4,
+          "url": "https://t.co/w4GDULq6ED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072168707384549683",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072010269413552305",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所有人 https://t.co/w4GDULq6ED"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2072168707384549683",
+        "created_at": "2026-07-01T04:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072168707384549683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/26suversider/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/26suversider/status/2072010269413552305",
+              "start": 4,
+              "url": "https://t.co/w4GDULq6ED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072168707384549683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072010269413552305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有人 https://t.co/w4GDULq6ED"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579442033483075584",
+        "conversation_id": "2072010269413552305",
+        "created_at": "2026-06-30T17:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072010269413552305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072010269413552305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 542,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "600fo了，感谢大家呀，小女子在想多点fo的时候给大家抽港美😤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨爱发碎碎念 我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071923670214176768/0g3cdovX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 245,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 435
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T12:01:48.000Z",
+        "description": "专注我的嗑药生活\n🚪38纯绿聊天朋友圈\n\nhttps://t.co/bSSvHriTrl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sunxiaochuankk",
+                "end": 44,
+                "expanded_url": "https://ngl.link/sunxiaochuankk",
+                "start": 21,
+                "url": "https://t.co/bSSvHriTrl"
+              }
+            ]
+          }
+        },
+        "id": "1579442033483075584",
+        "name": "孙笑川籍吧",
+        "pinned_tweet_id": "2065793737977127349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069652627575414784/Z7qSci36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 113,
+          "like_count": 770,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 776
+        },
+        "url": "",
+        "username": "26suversider",
+        "verified": false
+      }
+    ]
+  }
+}

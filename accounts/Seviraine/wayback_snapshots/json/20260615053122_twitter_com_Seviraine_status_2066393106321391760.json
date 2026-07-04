@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066081823642243072"
+      ],
+      "media_source_tweet_id": [
+        "2066081833087902007"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066393106321391760",
+    "created_at": "2026-06-15T05:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066393106321391760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1299312684991569920",
+          "start": 3,
+          "username": "DanJack67524194"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DhAJ2WUekj",
+          "end": 44,
+          "expanded_url": "https://x.com/DanJack67524194/status/2066081833087902007/photo/1",
+          "media_key": "3_2066081823642243072",
+          "start": 21,
+          "url": "https://t.co/DhAJ2WUekj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066393106321391760",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066081833087902007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DanJack67524194: https://t.co/DhAJ2WUekj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1428,
+        "media_key": "3_2066081823642243072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwyeNcWUAAj6E0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066081823642243072"
+          ],
+          "media_source_tweet_id": [
+            "2066081833087902007"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066393106321391760",
+        "created_at": "2026-06-15T05:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066393106321391760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1299312684991569920",
+              "start": 3,
+              "username": "DanJack67524194"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhAJ2WUekj",
+              "end": 44,
+              "expanded_url": "https://x.com/DanJack67524194/status/2066081833087902007/photo/1",
+              "media_key": "3_2066081823642243072",
+              "start": 21,
+              "url": "https://t.co/DhAJ2WUekj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066393106321391760",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066081833087902007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DanJack67524194: https://t.co/DhAJ2WUekj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066081823642243072"
+          ]
+        },
+        "author_id": "1299312684991569920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066081833087902007",
+        "created_at": "2026-06-14T08:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066081833087902007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhAJ2WUekj",
+              "end": 23,
+              "expanded_url": "https://x.com/DanJack67524194/status/2066081833087902007/photo/1",
+              "media_key": "3_2066081823642243072",
+              "start": 0,
+              "url": "https://t.co/DhAJ2WUekj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066081833087902007",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 40711,
+          "like_count": 1178,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DhAJ2WUekj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨重焦重抑 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 祝您早日活全家",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 122,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 60
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T11:48:01.000Z",
+        "description": "大擴張時代暫停 現在專心經營推特 \n沒有多餘的時間可以用threads 和ig了\n喜歡coser和fgo 愛發迷因\n想笑一笑的歡迎留步",
+        "id": "1299312684991569920",
+        "location": "羅馬帝國—君士坦丁堡",
+        "name": "狐曌🦊發我詐騙廣告的都是台獨",
+        "pinned_tweet_id": "1758852769707147607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923538905741111296/OuHg0oGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7992,
+          "following_count": 2106,
+          "like_count": 32664,
+          "listed_count": 21,
+          "media_count": 7619,
+          "tweet_count": 34259
+        },
+        "username": "DanJack67524194",
+        "verified": false
+      }
+    ]
+  }
+}

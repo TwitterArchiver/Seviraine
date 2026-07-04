@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2065906452209004866",
+    "created_at": "2026-06-14T16:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066193134628041022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1995929856723615744",
+          "start": 0,
+          "username": "Navira1449585"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066193134628041022",
+    "in_reply_to_user_id": "1995929856723615744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065906452209004866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Navira1449585 等一个互fo´꒳`"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_2065906442906054656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuS9tSbMAApn5E.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2065906452209004866",
+        "created_at": "2026-06-14T16:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066193134628041022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1995929856723615744",
+              "start": 0,
+              "username": "Navira1449585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066193134628041022",
+        "in_reply_to_user_id": "1995929856723615744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065906452209004866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Navira1449585 等一个互fo´꒳`"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065906442906054656"
+          ]
+        },
+        "author_id": "1995929856723615744",
+        "conversation_id": "2065906452209004866",
+        "created_at": "2026-06-13T21:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T22:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065906452209004866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARq1j0ljp9",
+              "end": 37,
+              "expanded_url": "https://x.com/Navira1449585/status/2065906452209004866/photo/1",
+              "media_key": "3_2065906442906054656",
+              "start": 14,
+              "url": "https://t.co/ARq1j0ljp9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065906452209004866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1377,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100fo达成（鼓掌鼓掌） https://t.co/ARq1j0ljp9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨重焦重抑 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 祝您早日活全家",
+        "id": "2066080690438123520",
+        "location": "直fo是喜欢你欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 58,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 36
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T18:55:44.000Z",
+        "description": "＝毛线\n不登校｜intp｜11｜互fo\n💊｜🚬｜🍻｜智商低情商为负orz\n匿名提问箱https://t.co/xS5wT1S99f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/navira26904",
+                "end": 65,
+                "expanded_url": "https://ngl.link/navira26904",
+                "start": 42,
+                "url": "https://t.co/xS5wT1S99f"
+              }
+            ]
+          }
+        },
+        "id": "1995929856723615744",
+        "name": "毛线咪",
+        "pinned_tweet_id": "2065069580725440747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008468373693136896/6f5DcANP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 157,
+          "like_count": 1032,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 175
+        },
+        "username": "Navira1449585",
+        "verified": false
+      }
+    ]
+  }
+}

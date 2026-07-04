@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2069114956826530287",
+    "created_at": "2026-06-23T08:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069334573578895660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        },
+        {
+          "end": 21,
+          "id": "1554387909587136512",
+          "start": 10,
+          "username": "Gag_Order_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069334573578895660",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069114956826530287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 @Gag_Order_ 希望他只是住院了而不是死掉了🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069114943316660224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLb5FAvXkAAQyV2.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069114943425900544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLb5FBJacAAwHvi.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2069114956826530287",
+        "created_at": "2026-06-23T08:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069334573578895660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            },
+            {
+              "end": 21,
+              "id": "1554387909587136512",
+              "start": 10,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069334573578895660",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069114956826530287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 @Gag_Order_ 希望他只是住院了而不是死掉了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069114943316660224",
+            "3_2069114943425900544"
+          ]
+        },
+        "author_id": "1809233055196073984",
+        "conversation_id": "2069114956826530287",
+        "created_at": "2026-06-22T17:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069114956826530287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EhztziHKSw",
+              "end": 67,
+              "expanded_url": "https://x.com/Jy666992/status/2069114956826530287/photo/1",
+              "media_key": "3_2069114943316660224",
+              "start": 44,
+              "url": "https://t.co/EhztziHKSw"
+            },
+            {
+              "display_url": "pic.x.com/EhztziHKSw",
+              "end": 67,
+              "expanded_url": "https://x.com/Jy666992/status/2069114956826530287/photo/1",
+              "media_key": "3_2069114943425900544",
+              "start": 44,
+              "url": "https://t.co/EhztziHKSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069114956826530287",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 有人知道这个天天o谵妄剂的大哥怎么样了吗\n太吓人了 我怕他死了 https://t.co/EhztziHKSw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 211,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2066059151097160134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 202,
+          "like_count": 590,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2065463862426522078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 187,
+          "like_count": 536,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

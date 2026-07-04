@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2068359074396373109",
+    "created_at": "2026-06-22T16:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069095300418142352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957509667787325440",
+          "start": 0,
+          "username": "_yuki_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069095300418142352",
+    "in_reply_to_user_id": "1957509667787325440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068359074396373109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yuki_owo 神啊，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2068359063453499392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRJnA0bAAA4LZa.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2068359074396373109",
+        "created_at": "2026-06-22T16:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069095300418142352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069095300418142352",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068359074396373109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 神啊，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068359063453499392"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2068359074396373109",
+        "created_at": "2026-06-20T15:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068359074396373109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwbQdTkCP8",
+              "end": 62,
+              "expanded_url": "https://x.com/_yuki_owo/status/2068359074396373109/photo/1",
+              "media_key": "3_2068359063453499392",
+              "start": 39,
+              "url": "https://t.co/fwbQdTkCP8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068359074396373109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1053,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然找到了我高一时候搞水仙给自己做的图 我感觉那个时候我美商比现在牛逼我靠 https://t.co/fwbQdTkCP8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 211,
+          "like_count": 749,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 286
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068358075711643649/fKih7_di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 699,
+          "like_count": 3550,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1833
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

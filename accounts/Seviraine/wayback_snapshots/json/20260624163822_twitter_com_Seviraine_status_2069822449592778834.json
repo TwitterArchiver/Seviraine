@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2069762950370410655",
+    "created_at": "2026-06-24T16:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069822449592778834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996061460984987650",
+          "start": 0,
+          "username": "bai_ge21306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069822449592778834",
+    "in_reply_to_user_id": "1996061460984987650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069820598910697812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai_ge21306 那很贪吃了😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2069762950370410655",
+        "created_at": "2026-06-24T16:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069822449592778834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996061460984987650",
+              "start": 0,
+              "username": "bai_ge21306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069822449592778834",
+        "in_reply_to_user_id": "1996061460984987650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069820598910697812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai_ge21306 那很贪吃了😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996061460984987650",
+        "conversation_id": "2069762950370410655",
+        "created_at": "2026-06-24T16:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069820598910697812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066080690438123520",
+              "start": 0,
+              "username": "Seviraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069820598910697812",
+        "in_reply_to_user_id": "2066080690438123520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069818726875365656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seviraine 居然是这样吗！我最喜欢一起吃嘿嘿😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 225,
+          "like_count": 921,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T03:38:45.000Z",
+        "description": "1i/4i 贝斯手 阴湿长发男 小众亚比地雷男\n👿👿👿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lemon23672",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lemon23672",
+                "start": 0,
+                "url": "https://t.co/e1Qn7kfnG7"
+              }
+            ]
+          }
+        },
+        "id": "1996061460984987650",
+        "location": "南极洲",
+        "name": "🍋",
+        "pinned_tweet_id": "2066277645621334085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034812591990870016/Ed8qZVYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 333,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/e1Qn7kfnG7",
+        "username": "bai_ge21306",
+        "verified": false
+      }
+    ]
+  }
+}

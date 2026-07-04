@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2069099957051879582",
+    "created_at": "2026-06-24T16:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069826203297743172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996061460984987650",
+          "start": 0,
+          "username": "bai_ge21306"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Discover your kink archetype with the original BDSM test. Taken by 100M+ people worldwide. Are you Dominant, submissive, or something else? Find out here, 100% free.",
+          "display_url": "BDSMTest.org",
+          "end": 36,
+          "expanded_url": "http://BDSMTest.org",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2068071683634962432/pYkd-6fU?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2068071683634962432/pYkd-6fU?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 13,
+          "status": 200,
+          "title": "BDSM Test - The Original BDSM & Kink Test",
+          "unwound_url": "http://BDSMTest.org",
+          "url": "https://t.co/kBGMqsuOvm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069826203297743172",
+    "in_reply_to_user_id": "1996061460984987650",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069825644540887528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai_ge21306 https://t.co/kBGMqsuOvm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2069099957051879582",
+        "created_at": "2026-06-24T16:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069826203297743172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996061460984987650",
+              "start": 0,
+              "username": "bai_ge21306"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Discover your kink archetype with the original BDSM test. Taken by 100M+ people worldwide. Are you Dominant, submissive, or something else? Find out here, 100% free.",
+              "display_url": "BDSMTest.org",
+              "end": 36,
+              "expanded_url": "http://BDSMTest.org",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2068071683634962432/pYkd-6fU?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068071683634962432/pYkd-6fU?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "BDSM Test - The Original BDSM & Kink Test",
+              "unwound_url": "http://BDSMTest.org",
+              "url": "https://t.co/kBGMqsuOvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069826203297743172",
+        "in_reply_to_user_id": "1996061460984987650",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069825644540887528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai_ge21306 https://t.co/kBGMqsuOvm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996061460984987650",
+        "conversation_id": "2069099957051879582",
+        "created_at": "2026-06-24T16:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069825644540887528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066080690438123520",
+              "start": 0,
+              "username": "Seviraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069825644540887528",
+        "in_reply_to_user_id": "2066080690438123520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069099957051879582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seviraine 命令你发我一份链接好吧👿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 226,
+          "like_count": 925,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 360
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T03:38:45.000Z",
+        "description": "1i/4i 贝斯手 阴湿长发男 小众亚比地雷男\n👿👿👿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lemon23672",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lemon23672",
+                "start": 0,
+                "url": "https://t.co/e1Qn7kfnG7"
+              }
+            ]
+          }
+        },
+        "id": "1996061460984987650",
+        "location": "南极洲",
+        "name": "🍋",
+        "pinned_tweet_id": "2066277645621334085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034812591990870016/Ed8qZVYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 333,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 453
+        },
+        "url": "https://t.co/e1Qn7kfnG7",
+        "username": "bai_ge21306",
+        "verified": false
+      }
+    ]
+  }
+}

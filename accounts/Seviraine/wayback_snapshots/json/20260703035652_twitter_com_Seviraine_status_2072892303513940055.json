@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2072657113646780835",
+    "created_at": "2026-07-03T03:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072892303513940055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1596474007775158272",
+          "start": 0,
+          "username": "Shu10oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072892303513940055",
+    "in_reply_to_user_id": "1596474007775158272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072657113646780835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shu10oo 🥺🥺还好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2072657113646780835",
+        "created_at": "2026-07-03T03:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072892303513940055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1596474007775158272",
+              "start": 0,
+              "username": "Shu10oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072892303513940055",
+        "in_reply_to_user_id": "1596474007775158272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072657113646780835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shu10oo 🥺🥺还好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596474007775158272",
+        "conversation_id": "2072657113646780835",
+        "created_at": "2026-07-02T12:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072657113646780835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072657113646780835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话我今天真的以为我要死掉了 内幻看到自己在跳楼  走马灯都出来了。。还好是假的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨爱发碎碎念 我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071923670214176768/0g3cdovX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 242,
+          "like_count": 1019,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T12:00:49.000Z",
+        "description": "不安。\n查成分互fo 直fo是喜欢你呀\n闺蜜@Sssse9uv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "Sssse9uv"
+              }
+            ]
+          }
+        },
+        "id": "1596474007775158272",
+        "name": "作为不会悲伤的人类",
+        "pinned_tweet_id": "2051460103690449043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053864426764386304/XcegA562_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 119,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 464
+        },
+        "url": "",
+        "username": "Shu10oo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2069008694088724806",
+    "created_at": "2026-06-23T13:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T14:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069405126905987171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944419689326858240",
+          "start": 0,
+          "username": "NanamiXuebi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069405126905987171",
+    "in_reply_to_user_id": "1944419689326858240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069368101406417186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanamiXuebi 好羡慕我都开不到普瑞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2069008694088724806",
+        "created_at": "2026-06-23T13:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069405126905987171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944419689326858240",
+              "start": 0,
+              "username": "NanamiXuebi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069405126905987171",
+        "in_reply_to_user_id": "1944419689326858240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069368101406417186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanamiXuebi 好羡慕我都开不到普瑞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944419689326858240",
+        "conversation_id": "2069008694088724806",
+        "created_at": "2026-06-23T10:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069368101406417186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066080690438123520",
+              "start": 0,
+              "username": "Seviraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069368101406417186",
+        "in_reply_to_user_id": "2066080690438123520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069008694088724806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seviraine 我花几百块买了一年量的pr80。。。现在每天起码磕16t才能正常活着了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 216,
+          "like_count": 815,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T15:32:50.000Z",
+        "description": "生日2008.10.14 ip上海 男的 丑逼 偶尔能女装 hrt2025.12.18\n自残只是因为压力大，心理没什么问题，不要讨厌我，我也不od不鉴证\n欢迎来找我玩\nqq3846809545",
+        "id": "1944419689326858240",
+        "location": "距离你-11cm",
+        "name": "99新🍥",
+        "pinned_tweet_id": "2010908804645601308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944419862958456832/lLSvkg_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 163,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 742
+        },
+        "url": "",
+        "username": "NanamiXuebi",
+        "verified": false
+      }
+    ]
+  }
+}

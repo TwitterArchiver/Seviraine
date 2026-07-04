@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2071945708635054371",
+    "created_at": "2026-06-30T13:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071945708635054371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PUTAOYOU66/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/PUTAOYOU66/status/2071593978831761607",
+          "start": 9,
+          "url": "https://t.co/YznMG82nvk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071945708635054371",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071593978831761607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "i love…🖤 https://t.co/YznMG82nvk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 595,
+        "media_key": "3_2071593971965718529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_HveHbcAEhFik.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2071945708635054371",
+        "created_at": "2026-06-30T13:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071945708635054371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PUTAOYOU66/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/PUTAOYOU66/status/2071593978831761607",
+              "start": 9,
+              "url": "https://t.co/YznMG82nvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071945708635054371",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071593978831761607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i love…🖤 https://t.co/YznMG82nvk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071593971965718529"
+          ]
+        },
+        "author_id": "1893651075389083648",
+        "conversation_id": "2071593978831761607",
+        "created_at": "2026-06-29T13:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071593978831761607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgWGB827QI",
+              "end": 27,
+              "expanded_url": "https://x.com/PUTAOYOU66/status/2071593978831761607/photo/1",
+              "media_key": "3_2071593971965718529",
+              "start": 4,
+              "url": "https://t.co/fgWGB827QI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071593978831761607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 433,
+          "impression_count": 118375,
+          "like_count": 5471,
+          "quote_count": 52,
+          "reply_count": 26,
+          "retweet_count": 1265
+        },
+        "reply_settings": "everyone",
+        "text": "我需要 https://t.co/fgWGB827QI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨爱发碎碎念 我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071923670214176768/0g3cdovX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 242,
+          "like_count": 1012,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T13:16:22.000Z",
+        "description": "双性恋｜废话很多",
+        "id": "1893651075389083648",
+        "location": "他没有吊着我是我爱当狗",
+        "name": "葡萄柚",
+        "pinned_tweet_id": "2054197704138670565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893651269727997952/lns_94zO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 73,
+          "like_count": 1172,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 385
+        },
+        "url": "",
+        "username": "PUTAOYOU66",
+        "verified": false
+      }
+    ]
+  }
+}

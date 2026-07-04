@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2069824445016134128",
+    "created_at": "2026-06-24T16:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069824445016134128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026652417392332800",
+          "start": 3,
+          "username": "kyanuro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069824445016134128",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15410
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069170003736146283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyanuro: si tuviera 7 vidas usaría 6 para suicidarme en público y traumatizar a la gente"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2069824445016134128",
+        "created_at": "2026-06-24T16:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069824445016134128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026652417392332800",
+              "start": 3,
+              "username": "kyanuro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069824445016134128",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15410
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069170003736146283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyanuro: si tuviera 7 vidas usaría 6 para suicidarme en público y traumatizar a la gente"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026652417392332800",
+        "conversation_id": "2069170003736146283",
+        "created_at": "2026-06-22T21:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069170003736146283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069170003736146283",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1464,
+          "impression_count": 638483,
+          "like_count": 73234,
+          "quote_count": 336,
+          "reply_count": 120,
+          "retweet_count": 15410
+        },
+        "reply_settings": "everyone",
+        "text": "si tuviera 7 vidas usaría 6 para suicidarme en público y traumatizar a la gente"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 225,
+          "like_count": 922,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T13:36:17.000Z",
+        "description": "dni OBESOS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/7R8XZ",
+                "end": 23,
+                "expanded_url": "https://boxd.it/7R8XZ",
+                "start": 0,
+                "url": "https://t.co/UfQap4Goiu"
+              }
+            ]
+          }
+        },
+        "id": "2026652417392332800",
+        "location": "´ཀ`   she   ||   murdertwt",
+        "name": "eri DEIDAD",
+        "pinned_tweet_id": "2066209572369453282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027127385338880001/IvMUTuhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 110,
+          "like_count": 4480,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1279
+        },
+        "url": "https://t.co/UfQap4Goiu",
+        "username": "kyanuro",
+        "verified": false
+      }
+    ]
+  }
+}

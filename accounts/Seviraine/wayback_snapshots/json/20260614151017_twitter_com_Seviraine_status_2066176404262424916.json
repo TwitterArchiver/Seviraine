@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066176404262424916",
+    "created_at": "2026-06-14T15:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066176404262424916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1743817935943069696",
+          "start": 3,
+          "username": "dietpixiie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066176404262424916",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065186980984402298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dietpixiie: binge eating for me doesn't even ever taste good and it's never satisfying. the real addiction is the brief feeling of free…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066176404262424916",
+        "created_at": "2026-06-14T15:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066176404262424916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1743817935943069696",
+              "start": 3,
+              "username": "dietpixiie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066176404262424916",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065186980984402298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dietpixiie: binge eating for me doesn't even ever taste good and it's never satisfying. the real addiction is the brief feeling of free…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743817935943069696",
+        "conversation_id": "2065186980984402298",
+        "created_at": "2026-06-11T21:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T22:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065186980984402298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065186980984402298",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 20222,
+          "like_count": 2327,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 345
+        },
+        "reply_settings": "everyone",
+        "text": "binge eating for me doesn't even ever taste good and it's never satisfying. the real addiction is the brief feeling of freedom from restriction"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "号主辱男辱女爱地域黑爱od割手精神病一个 你把手机摔了我就死了 放下屠刀祝您早日活全家 欢迎互fo",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 44,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T02:13:02.000Z",
+        "description": "23yo!⚠️ dni dnf: minors, nonedtwt, cis MEN, shtwt ⚠️\nI BLOCK MINORS / no age = no fb\nhw: 244 - cw: 146 - ugw: 95lbs - 5'2\"\nbkup: @ dietpixiie_bk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dietpixie.straw.page",
+                "end": 23,
+                "expanded_url": "https://dietpixie.straw.page/",
+                "start": 0,
+                "url": "https://t.co/qEVEclyt73"
+              }
+            ]
+          }
+        },
+        "id": "1743817935943069696",
+        "location": "23 she/her edtwt",
+        "name": "pixie ♡‧₊𖤐˚ 〖 🔞minors DNI!!! 🔞(3/10) 〗",
+        "pinned_tweet_id": "2060124581273182442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022126094833385472/faa6SVhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 250,
+          "like_count": 2884,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 1609
+        },
+        "url": "https://t.co/qEVEclyt73",
+        "username": "dietpixiie",
+        "verified": false
+      }
+    ]
+  }
+}

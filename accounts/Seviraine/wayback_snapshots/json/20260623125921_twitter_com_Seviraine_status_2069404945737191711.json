@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069242952472305664"
+      ],
+      "media_source_tweet_id": [
+        "2069242956201042150"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "conversation_id": "2069404945737191711",
+    "created_at": "2026-06-23T12:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069404945737191711"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "obslovetwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1673456382002049025",
+          "start": 3,
+          "username": "l3yl3yy_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6PbD4mDQ9b",
+          "end": 49,
+          "expanded_url": "https://x.com/l3yl3yy_/status/2069242956201042150/photo/1",
+          "media_key": "3_2069242952472305664",
+          "start": 26,
+          "url": "https://t.co/6PbD4mDQ9b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069404945737191711",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 400
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069242956201042150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @l3yl3yy_: #obslovetwt https://t.co/6PbD4mDQ9b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 375,
+        "media_key": "3_2069242952472305664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdtgIAXoAAddX0.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069242952472305664"
+          ],
+          "media_source_tweet_id": [
+            "2069242956201042150"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "conversation_id": "2069404945737191711",
+        "created_at": "2026-06-23T12:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069404945737191711"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "obslovetwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1673456382002049025",
+              "start": 3,
+              "username": "l3yl3yy_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6PbD4mDQ9b",
+              "end": 49,
+              "expanded_url": "https://x.com/l3yl3yy_/status/2069242956201042150/photo/1",
+              "media_key": "3_2069242952472305664",
+              "start": 26,
+              "url": "https://t.co/6PbD4mDQ9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069404945737191711",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 400
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069242956201042150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @l3yl3yy_: #obslovetwt https://t.co/6PbD4mDQ9b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069242952472305664"
+          ]
+        },
+        "author_id": "1673456382002049025",
+        "conversation_id": "2069242956201042150",
+        "created_at": "2026-06-23T02:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069242956201042150"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "obslovetwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6PbD4mDQ9b",
+              "end": 35,
+              "expanded_url": "https://x.com/l3yl3yy_/status/2069242956201042150/photo/1",
+              "media_key": "3_2069242952472305664",
+              "start": 12,
+              "url": "https://t.co/6PbD4mDQ9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069242956201042150",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 15237,
+          "like_count": 2018,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 400
+        },
+        "reply_settings": "everyone",
+        "text": "#obslovetwt https://t.co/6PbD4mDQ9b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 216,
+          "like_count": 814,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T22:21:51.000Z",
+        "description": "🦌🪽 ꒰stalking me? that's hot! 𖹭 ٭ ⊹ ࣪ ˖ ໒꒱                                      ₊ᰔ ⋮ (#deer) (#chiikawa) (#yungelita)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 85,
+                "tag": "deer"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "tag": "chiikawa"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "tag": "yungelita"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lov33lita/prof…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lov33lita/profilecard/?igsh=dXVwdHNvaHB3MTk5",
+                "start": 0,
+                "url": "https://t.co/7PfSBJY9rV"
+              }
+            ]
+          }
+        },
+        "id": "1673456382002049025",
+        "location": "- subtwt - es/en - she 🍓",
+        "name": "𝓁𝓮𝓎𝓁𝓮𝓎 𝜗𝜚",
+        "pinned_tweet_id": "2038438039656296739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039812513207054336/OCxolTV9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 540,
+          "like_count": 47595,
+          "listed_count": 5,
+          "media_count": 912,
+          "tweet_count": 15420
+        },
+        "url": "https://t.co/7PfSBJY9rV",
+        "username": "l3yl3yy_",
+        "verified": false
+      }
+    ]
+  }
+}

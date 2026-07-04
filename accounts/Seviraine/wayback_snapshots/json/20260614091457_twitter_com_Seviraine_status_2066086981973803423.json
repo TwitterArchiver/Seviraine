@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066059766309564861",
+    "created_at": "2026-06-14T09:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066086981973803423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "825834374",
+          "start": 0,
+          "username": "michael_qb4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066086981973803423",
+    "in_reply_to_user_id": "825834374",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066059766309564861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@michael_qb4 07"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066059766309564861",
+        "created_at": "2026-06-14T09:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066086981973803423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "825834374",
+              "start": 0,
+              "username": "michael_qb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066086981973803423",
+        "in_reply_to_user_id": "825834374",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066059766309564861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@michael_qb4 07"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2066059765168611328"
+          ]
+        },
+        "author_id": "825834374",
+        "conversation_id": "2066059766309564861",
+        "created_at": "2026-06-14T07:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066059766309564861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066059766309564861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6509,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "刚拍的哦                                    \n\n赶紧看…我要删了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-15T19:31:25.000Z",
+        "description": "如果萌萌的是一种天赋呢.⌯˃ ᵕ ᵒ⌯ಣ",
+        "id": "825834374",
+        "location": "17.21km",
+        "name": "王多鱼",
+        "pinned_tweet_id": "2064007227867111856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056700329115389952/tqnhuQRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 0,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1282
+        },
+        "username": "michael_qb4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066146607738061272",
+    "created_at": "2026-06-25T15:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070163220787343636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069070474269868034",
+          "start": 0,
+          "username": "meyuyume121"
+        },
+        {
+          "end": 20,
+          "id": "2060370682278711296",
+          "start": 13,
+          "username": "gvowyd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070163220787343636",
+    "in_reply_to_user_id": "2069070474269868034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070103815886610808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meyuyume121 @gvowyd 我都哭了就是梯子🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066146607738061272",
+        "created_at": "2026-06-25T15:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070163220787343636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069070474269868034",
+              "start": 0,
+              "username": "meyuyume121"
+            },
+            {
+              "end": 20,
+              "id": "2060370682278711296",
+              "start": 13,
+              "username": "gvowyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070163220787343636",
+        "in_reply_to_user_id": "2069070474269868034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070103815886610808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meyuyume121 @gvowyd 我都哭了就是梯子🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069070474269868034",
+        "conversation_id": "2066146607738061272",
+        "created_at": "2026-06-25T11:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070103815886610808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2060370682278711296",
+              "start": 0,
+              "username": "gvowyd"
+            },
+            {
+              "end": 18,
+              "id": "2066080690438123520",
+              "start": 8,
+              "username": "Seviraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070103815886610808",
+        "in_reply_to_user_id": "2060370682278711296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066772162401489375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gvowyd @Seviraine 梯子吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 229,
+          "like_count": 964,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T14:52:26.000Z",
+        "description": "愛人@Gen_ei_SKC0218\n神聖かまってちゃん beyond 李志\n🇭🇰🇭🇰🇭🇰\n😻互fol😻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Gen_ei_SKC0218"
+              }
+            ]
+          }
+        },
+        "id": "2069070474269868034",
+        "name": "yume",
+        "pinned_tweet_id": "2069071485034279064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069072982857936896/5MG7UIfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 80,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "meyuyume121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T14:40:43.000Z",
+        "description": "",
+        "id": "2060370682278711296",
+        "name": "Khan Kim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066721950144385024/JPoi_8Bc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 58,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "gvowyd",
+        "verified": false
+      }
+    ]
+  }
+}

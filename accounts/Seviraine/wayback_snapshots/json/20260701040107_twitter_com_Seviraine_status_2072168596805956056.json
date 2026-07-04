@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2071942379289096225",
+    "created_at": "2026-07-01T04:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072168596805956056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768755544154845184",
+          "start": 0,
+          "username": "koitoyuuuuuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072168596805956056",
+    "in_reply_to_user_id": "1768755544154845184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071942379289096225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koitoyuuuuuuuuu 好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 319,
+        "media_key": "3_2071942369155362816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEEm2yWMAAPSiK.jpg",
+        "width": 496
+      },
+      {
+        "height": 352,
+        "media_key": "3_2071942369058934784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEEm2bW0AApfgs.jpg",
+        "width": 488
+      },
+      {
+        "height": 615,
+        "media_key": "3_2071942369138606080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEEm2uWgAAxo8Z.jpg",
+        "width": 708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2071942379289096225",
+        "created_at": "2026-07-01T04:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072168596805956056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768755544154845184",
+              "start": 0,
+              "username": "koitoyuuuuuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072168596805956056",
+        "in_reply_to_user_id": "1768755544154845184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071942379289096225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koitoyuuuuuuuuu 好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071942369155362816",
+            "3_2071942369058934784",
+            "3_2071942369138606080"
+          ]
+        },
+        "author_id": "1768755544154845184",
+        "conversation_id": "2071942379289096225",
+        "created_at": "2026-06-30T13:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071942379289096225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NZHbYu5PPh",
+              "end": 32,
+              "expanded_url": "https://x.com/koitoyuuuuuuuuu/status/2071942379289096225/photo/1",
+              "media_key": "3_2071942369155362816",
+              "start": 9,
+              "url": "https://t.co/NZHbYu5PPh"
+            },
+            {
+              "display_url": "pic.x.com/NZHbYu5PPh",
+              "end": 32,
+              "expanded_url": "https://x.com/koitoyuuuuuuuuu/status/2071942379289096225/photo/1",
+              "media_key": "3_2071942369058934784",
+              "start": 9,
+              "url": "https://t.co/NZHbYu5PPh"
+            },
+            {
+              "display_url": "pic.x.com/NZHbYu5PPh",
+              "end": 32,
+              "expanded_url": "https://x.com/koitoyuuuuuuuuu/status/2071942379289096225/photo/1",
+              "media_key": "3_2071942369138606080",
+              "start": 9,
+              "url": "https://t.co/NZHbYu5PPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071942379289096225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己换钉子好麻烦 https://t.co/NZHbYu5PPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨爱发碎碎念 我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071923670214176768/0g3cdovX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 245,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 434
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T21:46:16.000Z",
+        "description": "低浮上\n皮下是章鱼哥，求精神病互fo，没回fo可以私信我",
+        "id": "1768755544154845184",
+        "location": "成都",
+        "name": "こいとゆう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070045263918755840/lhyYYe9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 45,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "koitoyuuuuuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

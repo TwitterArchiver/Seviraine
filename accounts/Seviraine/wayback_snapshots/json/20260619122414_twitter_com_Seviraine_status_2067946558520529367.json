@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2067882851690045813",
+    "created_at": "2026-06-19T12:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067946558520529367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2067526287737171968",
+          "start": 0,
+          "username": "SYongQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067946558520529367",
+    "in_reply_to_user_id": "2067526287737171968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067882851690045813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SYongQAQ 好漂亮！🖤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_2067882830093553664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKYelTbEAAlrEE.jpg",
+        "width": 1003
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067882830080962561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKYelQa8AEtYbd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1863,
+        "media_key": "3_2067882830068387840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKYelNbEAAbJ3t.jpg",
+        "width": 1495
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2067882851690045813",
+        "created_at": "2026-06-19T12:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067946558520529367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2067526287737171968",
+              "start": 0,
+              "username": "SYongQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067946558520529367",
+        "in_reply_to_user_id": "2067526287737171968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067882851690045813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SYongQAQ 好漂亮！🖤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067882830093553664",
+            "3_2067882830080962561",
+            "3_2067882830068387840"
+          ]
+        },
+        "author_id": "2067526287737171968",
+        "conversation_id": "2067882851690045813",
+        "created_at": "2026-06-19T08:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067882851690045813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6DBvGSL6p",
+              "end": 36,
+              "expanded_url": "https://x.com/SYongQAQ/status/2067882851690045813/photo/1",
+              "media_key": "3_2067882830093553664",
+              "start": 13,
+              "url": "https://t.co/t6DBvGSL6p"
+            },
+            {
+              "display_url": "pic.x.com/t6DBvGSL6p",
+              "end": 36,
+              "expanded_url": "https://x.com/SYongQAQ/status/2067882851690045813/photo/1",
+              "media_key": "3_2067882830080962561",
+              "start": 13,
+              "url": "https://t.co/t6DBvGSL6p"
+            },
+            {
+              "display_url": "pic.x.com/t6DBvGSL6p",
+              "end": 36,
+              "expanded_url": "https://x.com/SYongQAQ/status/2067882851690045813/photo/1",
+              "media_key": "3_2067882830068387840",
+              "start": 13,
+              "url": "https://t.co/t6DBvGSL6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067882851690045813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很丑陋的手 但完美的美甲 https://t.co/t6DBvGSL6p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 187,
+          "like_count": 584,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T08:37:47.000Z",
+        "description": "即将工作。抑焦但早已停药，健全人格对外。\n讨厌bl｜爱爆粗口｜没素质没道德没脸没皮\n主页内容只有性肉体欲望疯病与死亡\n提问箱https://t.co/hAMILSSSYz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B2%88%E5%B…",
+                "end": 85,
+                "expanded_url": "https://ngl.link/%E6%B2%88%E5%BA%B8",
+                "start": 62,
+                "url": "https://t.co/hAMILSSSYz"
+              }
+            ]
+          }
+        },
+        "id": "2067526287737171968",
+        "location": "庸人自扰",
+        "name": "小悔",
+        "pinned_tweet_id": "2067663318282842516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067711899811397632/drmLExZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 19,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "SYongQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

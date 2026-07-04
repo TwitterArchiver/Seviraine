@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066146607738061272",
+    "created_at": "2026-06-14T13:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066146607738061272"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066146607738061272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想找一个死了全家的惨逼谈恋爱，我就想和你随便在哪个城市流浪，兜里凑不出十块钱在糜烂的挂壁房里烟雾缭绕抽烂烟od自残喝小甜水，听滋哇乱叫的傻逼噪音朋克金属乐队，可能做完爱下一秒我们就趁着药效自杀了太他妈爽了我操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066146607738061272",
+        "created_at": "2026-06-14T13:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066146607738061272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066146607738061272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想找一个死了全家的惨逼谈恋爱，我就想和你随便在哪个城市流浪，兜里凑不出十块钱在糜烂的挂壁房里烟雾缭绕抽烂烟od自残喝小甜水，听滋哇乱叫的傻逼噪音朋克金属乐队，可能做完爱下一秒我们就趁着药效自杀了太他妈爽了我操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "号主辱男辱女地域黑\n祝您早日死全家",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "pinned_tweet_id": "2066144011296096495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "Seviraine",
+        "verified": false
+      }
+    ]
+  }
+}

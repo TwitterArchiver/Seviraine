@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060222564362842112"
+      ],
+      "media_source_tweet_id": [
+        "2060222566720000095"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066155699781149099",
+    "created_at": "2026-06-14T13:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066155699781149099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1403120401199341571",
+          "start": 3,
+          "username": "horrorsthetics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fdCBcKDgQS",
+          "end": 43,
+          "expanded_url": "https://x.com/horrorsthetics/status/2060222566720000095/photo/1",
+          "media_key": "3_2060222564362842112",
+          "start": 20,
+          "url": "https://t.co/fdCBcKDgQS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066155699781149099",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 442
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060222566720000095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @horrorsthetics: https://t.co/fdCBcKDgQS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066155699781149099].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066155699781149099",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066155699781149099"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 623,
+        "media_key": "3_2060222564362842112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdhgbsXcAAsOyw.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060222564362842112"
+          ]
+        },
+        "author_id": "1403120401199341571",
+        "conversation_id": "2060222566720000095",
+        "created_at": "2026-05-29T04:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060222566720000095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fdCBcKDgQS",
+              "end": 23,
+              "expanded_url": "https://x.com/horrorsthetics/status/2060222566720000095/photo/1",
+              "media_key": "3_2060222564362842112",
+              "start": 0,
+              "url": "https://t.co/fdCBcKDgQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060222566720000095",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 47756,
+          "like_count": 2468,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 442
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fdCBcKDgQS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "号主辱男辱女地域黑\n祝您早日死全家",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "pinned_tweet_id": "2066144011296096495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-10T22:42:41.000Z",
+        "description": "𝒔𝒉𝒆 𝒘𝒉𝒐 𝒉𝒂𝒏𝒈𝒔 𝒐𝒖𝒕 𝒂 𝒍𝒐𝒕 𝒊𝒏 𝒄𝒆𝒎𝒆𝒕𝒆𝒓𝒊𝒆𝒔 ⚰️ • 𝐞𝐧𝐭𝐞𝐫 𝐚𝐭 𝐲𝐨𝐮𝐫 𝐨𝐰𝐧 𝐫𝐢𝐬𝐤! 🕸️ • follow if you 🖤 daily 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 •",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/horrorsthetics",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/horrorsthetics",
+                "start": 0,
+                "url": "https://t.co/I0X0fbQILB"
+              }
+            ]
+          }
+        },
+        "id": "1403120401199341571",
+        "location": "hellmouth  | 18+",
+        "name": "🦇 𝐭𝐡𝐞 𝐯𝐚𝐦𝐩𝐢𝐫𝐚 𝐬𝐡𝐨𝐰 | nsfw",
+        "pinned_tweet_id": "2064677460247990316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991990580881043456/c6ptQ8xz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255036,
+          "following_count": 2907,
+          "like_count": 51008,
+          "listed_count": 448,
+          "media_count": 18167,
+          "tweet_count": 29740
+        },
+        "url": "https://t.co/I0X0fbQILB",
+        "username": "horrorsthetics",
+        "verified": true
+      }
+    ]
+  }
+}

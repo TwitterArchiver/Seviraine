@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066905856537714688"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2066905859691815041",
+    "created_at": "2026-06-16T15:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066905859691815041"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "自傷"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 66,
+          "id": "2066092076044021761",
+          "start": 56,
+          "username": "Johnnamf0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RWj0Px70zS",
+          "end": 90,
+          "expanded_url": "https://x.com/Seviraine/status/2066905859691815041/photo/1",
+          "media_key": "3_2066905856537714688",
+          "start": 67,
+          "url": "https://t.co/RWj0Px70zS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066905859691815041",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Film and television makeup effects, fake blood.#自傷\nlove🤍@Johnnamf0 https://t.co/RWj0Px70zS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066905856537714688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8f7PMa4AACIB5.jpg",
+        "width": 1658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066905856537714688"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2066905859691815041",
+        "created_at": "2026-06-16T15:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066905859691815041"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "自傷"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 66,
+              "id": "2066092076044021761",
+              "start": 56,
+              "username": "Johnnamf0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWj0Px70zS",
+              "end": 90,
+              "expanded_url": "https://x.com/Seviraine/status/2066905859691815041/photo/1",
+              "media_key": "3_2066905856537714688",
+              "start": 67,
+              "url": "https://t.co/RWj0Px70zS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066905859691815041",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Film and television makeup effects, fake blood.#自傷\nlove🤍@Johnnamf0 https://t.co/RWj0Px70zS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo我会回fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 149,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 100
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T09:36:41.000Z",
+        "description": "怠け者なのでオタク性に満ちている。",
+        "id": "2066092076044021761",
+        "location": "寻互关",
+        "name": "ブラッド",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066898374457204736/mduULDJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 55
+        },
+        "username": "Johnnamf0",
+        "verified": false
+      }
+    ]
+  }
+}

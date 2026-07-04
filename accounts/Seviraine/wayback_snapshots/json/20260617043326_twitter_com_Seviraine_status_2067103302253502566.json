@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066893481210212631",
+    "created_at": "2026-06-17T04:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067103302253502566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065580384406921216",
+          "start": 0,
+          "username": "tutu0630mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067103302253502566",
+    "in_reply_to_user_id": "2065580384406921216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066893481210212631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tutu0630mi 恭喜恭喜呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2066893466488156161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8UqCqaMAEqNLd.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066893481210212631",
+        "created_at": "2026-06-17T04:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067103302253502566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065580384406921216",
+              "start": 0,
+              "username": "tutu0630mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067103302253502566",
+        "in_reply_to_user_id": "2065580384406921216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066893481210212631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tutu0630mi 恭喜恭喜呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066893466488156161"
+          ]
+        },
+        "author_id": "2065580384406921216",
+        "conversation_id": "2066893481210212631",
+        "created_at": "2026-06-16T14:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066893481210212631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kCYnGpQvou",
+              "end": 28,
+              "expanded_url": "https://x.com/tutu0630mi/status/2066893481210212631/photo/1",
+              "media_key": "3_2066893466488156161",
+              "start": 5,
+              "url": "https://t.co/kCYnGpQvou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066893481210212631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 877,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我复活了 https://t.co/kCYnGpQvou"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo我会回fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 166,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 123
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T23:43:46.000Z",
+        "description": "大号@KG6I1x｜你们都来和我互动行不行｜我抗压差，你们不准骂我｜小女孩我无条件回fo呀｜只会小女孩和同类谢谢｜这是我闺蜜@zhheou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "KG6I1x"
+              },
+              {
+                "end": 69,
+                "start": 62,
+                "username": "zhheou"
+              }
+            ]
+          }
+        },
+        "id": "2065580384406921216",
+        "name": "荼蘼花二代目",
+        "pinned_tweet_id": "2066896798388720049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065581328507011072/wYddomwT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 49,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 162
+        },
+        "username": "tutu0630mi",
+        "verified": false
+      }
+    ]
+  }
+}

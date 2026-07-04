@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2068952088638619760",
+    "created_at": "2026-06-22T07:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068953733099319666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865480322978349056",
+          "start": 0,
+          "username": "CharaG51669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068953733099319666",
+    "in_reply_to_user_id": "1865480322978349056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068952088638619760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharaG51669 妈咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068952082158411776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZk9PpbYAA099P.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2077,
+        "media_key": "3_2068952085874556928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZk9dfbQAASUN9.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2068952088638619760",
+        "created_at": "2026-06-22T07:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068953733099319666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865480322978349056",
+              "start": 0,
+              "username": "CharaG51669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068953733099319666",
+        "in_reply_to_user_id": "1865480322978349056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068952088638619760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharaG51669 妈咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068952082158411776",
+            "3_2068952085874556928"
+          ]
+        },
+        "author_id": "1865480322978349056",
+        "conversation_id": "2068952088638619760",
+        "created_at": "2026-06-22T06:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068952088638619760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/liCfVumM0V",
+              "end": 39,
+              "expanded_url": "https://x.com/CharaG51669/status/2068952088638619760/photo/1",
+              "media_key": "3_2068952082158411776",
+              "start": 16,
+              "url": "https://t.co/liCfVumM0V"
+            },
+            {
+              "display_url": "pic.x.com/liCfVumM0V",
+              "end": 39,
+              "expanded_url": "https://x.com/CharaG51669/status/2068952088638619760/photo/1",
+              "media_key": "3_2068952085874556928",
+              "start": 16,
+              "url": "https://t.co/liCfVumM0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068952088638619760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扎发，我变成了一颗光秃秃的卤蛋 https://t.co/liCfVumM0V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 200,
+          "like_count": 706,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T19:36:09.000Z",
+        "description": "06/INFP/重抑郁/焦虑 /有老公/od/割手/抽烟/欢迎互fo/欢迎私信/叫我小侑就好/现居深圳，欢迎小萌物们找我玩！",
+        "id": "1865480322978349056",
+        "name": "OnoderaYuu",
+        "pinned_tweet_id": "2065285209256600058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865662167120564224/GiHXnwwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 154,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 361
+        },
+        "url": "",
+        "username": "CharaG51669",
+        "verified": false
+      }
+    ]
+  }
+}

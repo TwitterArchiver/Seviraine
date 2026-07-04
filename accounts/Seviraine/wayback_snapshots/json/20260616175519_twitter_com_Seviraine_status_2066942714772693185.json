@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066942714772693185",
+    "created_at": "2026-06-16T17:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066942714772693185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1355900185235259396",
+          "start": 3,
+          "username": "AzumaSeren"
+        },
+        {
+          "end": 25,
+          "id": "1271679567573340161",
+          "start": 16,
+          "username": "phanktwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066942714772693185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 859
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812375526885187656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @AzumaSeren: @phanktwo 月底出席你妈的葬礼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066942714772693185",
+        "created_at": "2026-06-16T17:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066942714772693185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1355900185235259396",
+              "start": 3,
+              "username": "AzumaSeren"
+            },
+            {
+              "end": 25,
+              "id": "1271679567573340161",
+              "start": 16,
+              "username": "phanktwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066942714772693185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 859
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812375526885187656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @AzumaSeren: @phanktwo 月底出席你妈的葬礼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1355900185235259396",
+        "conversation_id": "1812370806468677896",
+        "created_at": "2024-07-14T06:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T07:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812375526885187656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271679567573340161",
+              "start": 0,
+              "username": "phanktwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812375526885187656",
+        "in_reply_to_user_id": "1271679567573340161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 510,
+          "impression_count": 931603,
+          "like_count": 6399,
+          "quote_count": 280,
+          "reply_count": 47,
+          "retweet_count": 859
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812374455584182751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@phanktwo 月底出席你妈的葬礼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo我会回fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 156,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 110
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T15:26:46.000Z",
+        "description": "°ʚ🍼ɞ°￤詩￤唄￤歌唱以外のお仕事は受け付けておりません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumaseren",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumaseren",
+                "start": 0,
+                "url": "https://t.co/fKPzK4dlPm"
+              }
+            ]
+          }
+        },
+        "id": "1355900185235259396",
+        "name": "東 雪蓮",
+        "pinned_tweet_id": "2063576704044650770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922983367907090432/mLpJdD8G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53461,
+          "following_count": 207,
+          "like_count": 21208,
+          "listed_count": 124,
+          "media_count": 954,
+          "tweet_count": 8432
+        },
+        "url": "https://t.co/fKPzK4dlPm",
+        "username": "AzumaSeren",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T05:44:22.000Z",
+        "description": "The art",
+        "id": "1271679567573340161",
+        "location": "Japan",
+        "name": "尼尔hz",
+        "pinned_tweet_id": "1812374455584182751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490587727405981699/fergZknP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 92,
+          "like_count": 414,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "phanktwo",
+        "verified": false
+      }
+    ]
+  }
+}

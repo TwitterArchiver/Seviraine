@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066075528470442370",
+    "created_at": "2026-06-14T09:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066087389920174549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1894856042883973120",
+          "start": 0,
+          "username": "Adairis86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066087389920174549",
+    "in_reply_to_user_id": "1894856042883973120",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066075528470442370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adairis86 222"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066075528470442370",
+        "created_at": "2026-06-14T09:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066087389920174549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1894856042883973120",
+              "start": 0,
+              "username": "Adairis86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066087389920174549",
+        "in_reply_to_user_id": "1894856042883973120",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066075528470442370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adairis86 222"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2066075527220490240"
+          ]
+        },
+        "author_id": "1894856042883973120",
+        "conversation_id": "2066075528470442370",
+        "created_at": "2026-06-14T08:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066075528470442370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066075528470442370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1151,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "且看且珍惜 \n（ ͜.人 ͜.）  \n    )  .  ( \n  乀ωノ  \n ︵ ᑎ ︵\n有人要看我刚拍的形体课照吗？新鲜的  人机别来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T21:04:29.000Z",
+        "description": "讨厌佳豪",
+        "id": "1894856042883973120",
+        "name": "Aandi",
+        "pinned_tweet_id": "2066049977735156014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044095039538900992/Oa0OsBHv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 26,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 200
+        },
+        "username": "Adairis86",
+        "verified": false
+      }
+    ]
+  }
+}

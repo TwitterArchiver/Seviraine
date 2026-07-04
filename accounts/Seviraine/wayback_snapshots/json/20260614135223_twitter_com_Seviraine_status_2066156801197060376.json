@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066156801197060376",
+    "created_at": "2026-06-14T13:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066156801197060376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581937806435573760",
+          "start": 3,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066156801197060376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066008325024809076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fadai202202: 招聘一条狗 要求敏感多疑 恋爱脑 玻璃心 有严重分离焦虑 干嘛都要跟我讲 不跟我报备就会抑郁不安离开我一会就天塌了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066156801197060376",
+        "created_at": "2026-06-14T13:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066156801197060376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581937806435573760",
+              "start": 3,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066156801197060376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066008325024809076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fadai202202: 招聘一条狗 要求敏感多疑 恋爱脑 玻璃心 有严重分离焦虑 干嘛都要跟我讲 不跟我报备就会抑郁不安离开我一会就天塌了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2066008325024809076",
+        "created_at": "2026-06-14T04:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066008325024809076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066008325024809076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4456,
+          "like_count": 35,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "招聘一条狗 要求敏感多疑 恋爱脑 玻璃心 有严重分离焦虑 干嘛都要跟我讲 不跟我报备就会抑郁不安离开我一会就天塌了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "号主辱男辱女地域黑\n祝您早日死全家",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "pinned_tweet_id": "2066144011296096495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "",
+        "id": "1581937806435573760",
+        "location": "在你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19281,
+          "following_count": 1,
+          "like_count": 1474,
+          "listed_count": 18,
+          "media_count": 180,
+          "tweet_count": 1408
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2069716432590393596",
+    "created_at": "2026-06-24T09:38:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:38:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069716889950150866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996061460984987650",
+          "start": 0,
+          "username": "bai_ge21306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069716889950150866",
+    "in_reply_to_user_id": "1996061460984987650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069716432590393596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai_ge21306 小猫咪😈😈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2069716422201143296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkcHsMXcAATI6b.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2069716432590393596",
+        "created_at": "2026-06-24T09:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069716889950150866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996061460984987650",
+              "start": 0,
+              "username": "bai_ge21306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069716889950150866",
+        "in_reply_to_user_id": "1996061460984987650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069716432590393596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai_ge21306 小猫咪😈😈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069716422201143296"
+          ]
+        },
+        "author_id": "1996061460984987650",
+        "conversation_id": "2069716432590393596",
+        "created_at": "2026-06-24T09:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069716432590393596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PrQPSrYUxG",
+              "end": 26,
+              "expanded_url": "https://x.com/bai_ge21306/status/2069716432590393596/photo/1",
+              "media_key": "3_2069716422201143296",
+              "start": 3,
+              "url": "https://t.co/PrQPSrYUxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069716432590393596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝 https://t.co/PrQPSrYUxG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 222,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 344
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T03:38:45.000Z",
+        "description": "1i/4i 贝斯手 阴湿长发男 小众亚比地雷男\n👿👿👿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lemon23672",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lemon23672",
+                "start": 0,
+                "url": "https://t.co/e1Qn7kfnG7"
+              }
+            ]
+          }
+        },
+        "id": "1996061460984987650",
+        "location": "南极洲",
+        "name": "🍋",
+        "pinned_tweet_id": "2066277645621334085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034812591990870016/Ed8qZVYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 329,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 424
+        },
+        "url": "https://t.co/e1Qn7kfnG7",
+        "username": "bai_ge21306",
+        "verified": false
+      }
+    ]
+  }
+}

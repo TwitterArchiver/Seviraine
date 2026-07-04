@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067948550479376384"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "conversation_id": "2067835936357118094",
+    "created_at": "2026-06-19T12:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067948553306255687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755664020944941056",
+          "start": 0,
+          "username": "Korewoizontoyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7MJN94JxLV",
+          "end": 39,
+          "expanded_url": "https://x.com/Seviraine/status/2067948553306255687/photo/1",
+          "media_key": "3_2067948550479376384",
+          "start": 16,
+          "url": "https://t.co/7MJN94JxLV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067948553306255687",
+    "in_reply_to_user_id": "1755664020944941056",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067835936357118094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Korewoizontoyo https://t.co/7MJN94JxLV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1576,
+        "media_key": "3_2067948550479376384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLUQA0bcAAfN31.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067948550479376384"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "conversation_id": "2067835936357118094",
+        "created_at": "2026-06-19T12:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067948553306255687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "Korewoizontoyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7MJN94JxLV",
+              "end": 39,
+              "expanded_url": "https://x.com/Seviraine/status/2067948553306255687/photo/1",
+              "media_key": "3_2067948550479376384",
+              "start": 16,
+              "url": "https://t.co/7MJN94JxLV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067948553306255687",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067835936357118094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Korewoizontoyo https://t.co/7MJN94JxLV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755664020944941056",
+        "conversation_id": "2067835936357118094",
+        "created_at": "2026-06-19T05:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067835936357118094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067835936357118094",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猎奇内容秒回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 187,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。oder。自残自伤。10。可以互fo，我会查成分回关。",
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2067641877361541426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065774972472344576/pRvlbEiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 430,
+          "like_count": 1856,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 592
+        },
+        "url": "",
+        "username": "Korewoizontoyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2069091409286885739",
+    "created_at": "2026-06-22T16:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069091409286885739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1996061460984987650",
+          "start": 3,
+          "username": "bai_ge21306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069091409286885739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067128871615619506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bai_ge21306: 对我缺爱了我压抑了但我真的好想能有个人抱着我我在她怀里哭然后她摸着我的头跟我说没关系你已经很棒了你做的已经很好了…每天活着都好累好累好累好累好累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2069091409286885739",
+        "created_at": "2026-06-22T16:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069091409286885739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1996061460984987650",
+              "start": 3,
+              "username": "bai_ge21306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069091409286885739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067128871615619506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bai_ge21306: 对我缺爱了我压抑了但我真的好想能有个人抱着我我在她怀里哭然后她摸着我的头跟我说没关系你已经很棒了你做的已经很好了…每天活着都好累好累好累好累好累"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996061460984987650",
+        "conversation_id": "2067128871615619506",
+        "created_at": "2026-06-17T06:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067128871615619506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067128871615619506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对我缺爱了我压抑了但我真的好想能有个人抱着我我在她怀里哭然后她摸着我的头跟我说没关系你已经很棒了你做的已经很好了…每天活着都好累好累好累好累好累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 211,
+          "like_count": 743,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 282
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T03:38:45.000Z",
+        "description": "1i/4i 贝斯手 阴湿长发男 小众亚比地雷男\nip在南极洲👿👿👿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lemon23672",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lemon23672",
+                "start": 0,
+                "url": "https://t.co/e1Qn7kfVvF"
+              }
+            ]
+          }
+        },
+        "id": "1996061460984987650",
+        "name": "🍋",
+        "pinned_tweet_id": "2066277645621334085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034812591990870016/Ed8qZVYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 325,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 389
+        },
+        "url": "https://t.co/e1Qn7kfVvF",
+        "username": "bai_ge21306",
+        "verified": false
+      }
+    ]
+  }
+}

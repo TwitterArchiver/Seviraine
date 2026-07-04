@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066166979774554112"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2066166983402635657",
+    "created_at": "2026-06-14T14:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066166983402635657"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vVsvzmSyWQ",
+          "end": 23,
+          "expanded_url": "https://x.com/Seviraine/status/2066166983402635657/photo/1",
+          "media_key": "3_2066166979774554112",
+          "start": 0,
+          "url": "https://t.co/vVsvzmSyWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066166983402635657",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/vVsvzmSyWQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066166979774554112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx_68waoAA6uwU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066166979774554112"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066166983402635657",
+        "created_at": "2026-06-14T14:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066166983402635657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vVsvzmSyWQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Seviraine/status/2066166983402635657/photo/1",
+              "media_key": "3_2066166979774554112",
+              "start": 0,
+              "url": "https://t.co/vVsvzmSyWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066166983402635657",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vVsvzmSyWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "号主辱男辱女爱地域黑爱od割手精神病一个 你把手机摔了我就死了 放下屠刀祝您早日活全家",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "username": "Seviraine",
+        "verified": false
+      }
+    ]
+  }
+}

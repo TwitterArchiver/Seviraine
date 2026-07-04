@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065851948272844800"
+      ],
+      "media_source_tweet_id": [
+        "2065851952978935817"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066156853176996255",
+    "created_at": "2026-06-14T13:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066156853176996255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1575765089030139905",
+          "start": 3,
+          "username": "wodanggangqiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QKMYrkSoES",
+          "end": 44,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2065851952978935817/photo/1",
+          "media_key": "3_2065851948272844800",
+          "start": 21,
+          "url": "https://t.co/QKMYrkSoES"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066156853176996255",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065851952978935817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wodanggangqiang: https://t.co/QKMYrkSoES"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1088,
+        "media_key": "3_2065851948272844800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKthZs9aAAAAYig.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065851948272844800"
+          ],
+          "media_source_tweet_id": [
+            "2065851952978935817"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066156853176996255",
+        "created_at": "2026-06-14T13:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066156853176996255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1575765089030139905",
+              "start": 3,
+              "username": "wodanggangqiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QKMYrkSoES",
+              "end": 44,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2065851952978935817/photo/1",
+              "media_key": "3_2065851948272844800",
+              "start": 21,
+              "url": "https://t.co/QKMYrkSoES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066156853176996255",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065851952978935817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wodanggangqiang: https://t.co/QKMYrkSoES"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065851948272844800"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2065851952978935817",
+        "created_at": "2026-06-13T17:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065851952978935817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QKMYrkSoES",
+              "end": 23,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2065851952978935817/photo/1",
+              "media_key": "3_2065851948272844800",
+              "start": 0,
+              "url": "https://t.co/QKMYrkSoES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065851952978935817",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 27473,
+          "like_count": 1221,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QKMYrkSoES"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "号主辱男辱女地域黑\n祝您早日死全家",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "pinned_tweet_id": "2066144011296096495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29784,
+          "following_count": 561,
+          "like_count": 37190,
+          "listed_count": 89,
+          "media_count": 10247,
+          "tweet_count": 28185
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

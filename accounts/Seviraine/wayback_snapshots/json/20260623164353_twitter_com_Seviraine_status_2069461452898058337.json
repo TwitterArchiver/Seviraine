@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2069422268288295206",
+    "created_at": "2026-06-23T16:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T17:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069461452898058337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2048881980033654784",
+          "start": 0,
+          "username": "belialkawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069461452898058337",
+    "in_reply_to_user_id": "2048881980033654784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069422268288295206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@belialkawaii 人之常情😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2069422268288295206",
+        "created_at": "2026-06-23T16:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069461452898058337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2048881980033654784",
+              "start": 0,
+              "username": "belialkawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069461452898058337",
+        "in_reply_to_user_id": "2048881980033654784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069422268288295206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@belialkawaii 人之常情😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048881980033654784",
+        "conversation_id": "2069422268288295206",
+        "created_at": "2026-06-23T14:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069422268288295206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069422268288295206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上学喜欢骂老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 216,
+          "like_count": 838,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T21:49:31.000Z",
+        "description": "我想跟oder交朋友 想互fo 直fo抱歉\n我喜欢发废话\n\nこの世界に二人だけ",
+        "id": "2048881980033654784",
+        "location": "东京",
+        "name": "yumi",
+        "pinned_tweet_id": "2048884300633051499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067852767629373440/Y8f__BLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 137,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "belialkawaii",
+        "verified": false
+      }
+    ]
+  }
+}

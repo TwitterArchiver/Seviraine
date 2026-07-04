@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066390614716113198",
+    "created_at": "2026-06-15T05:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066390614716113198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2033549131797733376",
+          "start": 3,
+          "username": "nini_incrypto_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066390614716113198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055337515138342912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nini_incrypto_: 你们别看我天天在x这么正经，我在墙内看的都是吉他张，顽主，婵姐，一滴泪，小帕，索菲亚这些神人。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066390614716113198",
+        "created_at": "2026-06-15T05:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066390614716113198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2033549131797733376",
+              "start": 3,
+              "username": "nini_incrypto_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066390614716113198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055337515138342912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nini_incrypto_: 你们别看我天天在x这么正经，我在墙内看的都是吉他张，顽主，婵姐，一滴泪，小帕，索菲亚这些神人。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033549131797733376",
+        "conversation_id": "2055337515138342912",
+        "created_at": "2026-05-15T17:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055337515138342912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055337515138342912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11412,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 110,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们别看我天天在x这么正经，我在墙内看的都是吉他张，顽主，婵姐，一滴泪，小帕，索菲亚这些神人。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨重焦重抑 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 祝您早日活全家",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 121,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 58
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:26:02.000Z",
+        "description": "07大二在读｜crypto➕ai\nWeb3 创作者｜@CHAINISLE_ZH 生态成员\n网红孵化机构/商务合作\n付费交易群/流量增长陪跑/咨询 私信\ntg群https://t.co/yf2I2uudVp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "CHAINISLE_ZH"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+pIYvNfop1KthM…",
+                "end": 102,
+                "expanded_url": "https://t.me/+pIYvNfop1KthMjY1",
+                "start": 79,
+                "url": "https://t.co/yf2I2uudVp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nini.onchain",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nini.onchain",
+                "start": 0,
+                "url": "https://t.co/8nWRHsGEY6"
+              }
+            ]
+          }
+        },
+        "id": "2033549131797733376",
+        "name": "nini",
+        "pinned_tweet_id": "2062125935252390372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035875407359262720/qVUpg1XW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9138,
+          "following_count": 988,
+          "like_count": 18620,
+          "listed_count": 39,
+          "media_count": 194,
+          "tweet_count": 4863
+        },
+        "url": "https://t.co/8nWRHsGEY6",
+        "username": "nini_incrypto_",
+        "verified": true
+      }
+    ]
+  }
+}

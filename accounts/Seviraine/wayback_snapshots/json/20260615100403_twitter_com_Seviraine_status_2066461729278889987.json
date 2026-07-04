@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066461729278889987",
+    "created_at": "2026-06-15T10:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066461729278889987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1403404044744507401",
+          "start": 3,
+          "username": "lovesickteeth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066461729278889987",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 799
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066151729717019126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovesickteeth: Animated a few old pieces from 2024. These are from some of my childhood photos that I painted over and distorted. The w…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13766,
+        "height": 720,
+        "media_key": "13_2066151672145997824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066151672145997824/img/OSxVZLnnAEOpS3Io.jpg",
+        "public_metrics": {
+          "view_count": 43215
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066151672145997824/vid/avc1/336x270/uXuk7c2WARJywrI4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066151672145997824/vid/avc1/450x360/w2ms1mNubAmtXfs6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066151672145997824/vid/avc1/900x720/hVKSkGu_EwreCCPx.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066151672145997824/pl/VldVNtXEx5kUn_WS.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066461729278889987",
+        "created_at": "2026-06-15T10:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066461729278889987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1403404044744507401",
+              "start": 3,
+              "username": "lovesickteeth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066461729278889987",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 799
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066151729717019126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovesickteeth: Animated a few old pieces from 2024. These are from some of my childhood photos that I painted over and distorted. The w…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066151672145997824"
+          ]
+        },
+        "author_id": "1403404044744507401",
+        "conversation_id": "2066151729717019126",
+        "created_at": "2026-06-14T13:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066151729717019126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRRDjlaC0B",
+              "end": 228,
+              "expanded_url": "https://x.com/lovesickteeth/status/2066151729717019126/video/1",
+              "media_key": "13_2066151672145997824",
+              "start": 205,
+              "url": "https://t.co/hRRDjlaC0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066151729717019126",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1362,
+          "impression_count": 82732,
+          "like_count": 8046,
+          "quote_count": 11,
+          "reply_count": 16,
+          "retweet_count": 799
+        },
+        "reply_settings": "everyone",
+        "text": "Animated a few old pieces from 2024. These are from some of my childhood photos that I painted over and distorted. The way these look is how it felt growing up back then.\n\nSong: Time In Limbo -Limbus Vita https://t.co/hRRDjlaC0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨重焦重抑 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 祝您早日活全家",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 131,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 79
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-11T17:31:08.000Z",
+        "description": "I draw weird stuff. 🥩👁🛸🫀",
+        "id": "1403404044744507401",
+        "name": "🩸Lovesickteeth🩸",
+        "pinned_tweet_id": "2050630425886732526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053336603318198273/4Al-qJfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27311,
+          "following_count": 599,
+          "like_count": 15961,
+          "listed_count": 159,
+          "media_count": 906,
+          "tweet_count": 1344
+        },
+        "username": "lovesickteeth",
+        "verified": false
+      }
+    ]
+  }
+}

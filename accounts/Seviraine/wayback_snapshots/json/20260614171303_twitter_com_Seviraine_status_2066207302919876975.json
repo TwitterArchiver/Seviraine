@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066207302919876975",
+    "created_at": "2026-06-14T17:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066207302919876975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1933200730443415552",
+          "start": 3,
+          "username": "nothingnes74306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066207302919876975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066020707210076201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nothingnes74306: 哈哈哈哈国家机器你们就继续不停的去打击吸毒嗑药的吧，当有一天你党倒台了你们才会意识到这些瘾君子才是真正的只想过好自己的生活懒得去释放戾气罢工罢市惹事生非，你们到时候就会意识到你们对于瘾君子的极端的打压是多么的愚蠢，你们在台上的当初是多么…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066207302919876975",
+        "created_at": "2026-06-14T17:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066207302919876975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1933200730443415552",
+              "start": 3,
+              "username": "nothingnes74306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066207302919876975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066020707210076201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nothingnes74306: 哈哈哈哈国家机器你们就继续不停的去打击吸毒嗑药的吧，当有一天你党倒台了你们才会意识到这些瘾君子才是真正的只想过好自己的生活懒得去释放戾气罢工罢市惹事生非，你们到时候就会意识到你们对于瘾君子的极端的打压是多么的愚蠢，你们在台上的当初是多么…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933200730443415552",
+        "conversation_id": "2066020707210076201",
+        "created_at": "2026-06-14T04:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066020707210076201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066020707210076201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 448,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈国家机器你们就继续不停的去打击吸毒嗑药的吧，当有一天你党倒台了你们才会意识到这些瘾君子才是真正的只想过好自己的生活懒得去释放戾气罢工罢市惹事生非，你们到时候就会意识到你们对于瘾君子的极端的打压是多么的愚蠢，你们在台上的当初是多么的生在福中不知福啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨重焦重抑 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 祝您早日活全家",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 80,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 40
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T16:33:06.000Z",
+        "description": "trust no one",
+        "id": "1933200730443415552",
+        "name": "nothingness",
+        "pinned_tweet_id": "2043580945433854076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996409076876476416/kYNAR_lU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 116,
+          "like_count": 6376,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 625
+        },
+        "username": "nothingnes74306",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2067406702941716844",
+    "created_at": "2026-06-18T18:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067672635333607908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060006148087181312",
+          "start": 0,
+          "username": "tristeza226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067672635333607908",
+    "in_reply_to_user_id": "2060006148087181312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067406702941716844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tristeza226 蹲蹲呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2067406692028219392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDnbsybgAAo0bm.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2067406692045012992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDnbs2bwAA2QaB.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2067406702941716844",
+        "created_at": "2026-06-18T18:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067672635333607908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060006148087181312",
+              "start": 0,
+              "username": "tristeza226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067672635333607908",
+        "in_reply_to_user_id": "2060006148087181312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067406702941716844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tristeza226 蹲蹲呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067406692028219392",
+            "3_2067406692045012992"
+          ]
+        },
+        "author_id": "2060006148087181312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067406702941716844",
+        "created_at": "2026-06-18T00:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067406702941716844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FcDTLrXoQs",
+              "end": 50,
+              "expanded_url": "https://x.com/tristeza226/status/2067406702941716844/photo/1",
+              "media_key": "3_2067406692028219392",
+              "start": 27,
+              "url": "https://t.co/FcDTLrXoQs"
+            },
+            {
+              "display_url": "pic.x.com/FcDTLrXoQs",
+              "end": 50,
+              "expanded_url": "https://x.com/tristeza226/status/2067406702941716844/photo/1",
+              "media_key": "3_2067406692045012992",
+              "start": 27,
+              "url": "https://t.co/FcDTLrXoQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067406702941716844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1946,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "上个贴被删了 有需要找我\n转帖参与抽奖 我抽人送几盒 https://t.co/FcDTLrXoQs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo我会回fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 177,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 180
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T14:33:28.000Z",
+        "description": "重生 大号 @xioqngx286233\n该账号被隐形限流了互fo小号@xqx226",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "xioqngx286233"
+              },
+              {
+                "end": 42,
+                "start": 35,
+                "username": "xqx226"
+              }
+            ]
+          }
+        },
+        "id": "2060006148087181312",
+        "name": "小情绪",
+        "pinned_tweet_id": "2067406702941716844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063453768226836480/_nRosshY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 192,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "tristeza226",
+        "verified": false
+      }
+    ]
+  }
+}

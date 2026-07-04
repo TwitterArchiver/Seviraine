@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069032082274447360"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "conversation_id": "2069032085529268634",
+    "created_at": "2026-06-22T12:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069032085529268634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P06sFi8l5V",
+          "end": 32,
+          "expanded_url": "https://x.com/Seviraine/status/2069032085529268634/photo/1",
+          "media_key": "3_2069032082274447360",
+          "start": 9,
+          "url": "https://t.co/P06sFi8l5V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069032085529268634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我被强制包扎了， https://t.co/P06sFi8l5V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069032082274447360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLatt3Ta8AAWZDx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069032082274447360"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "conversation_id": "2069032085529268634",
+        "created_at": "2026-06-22T12:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069032085529268634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P06sFi8l5V",
+              "end": 32,
+              "expanded_url": "https://x.com/Seviraine/status/2069032085529268634/photo/1",
+              "media_key": "3_2069032082274447360",
+              "start": 9,
+              "url": "https://t.co/P06sFi8l5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069032085529268634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被强制包扎了， https://t.co/P06sFi8l5V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 205,
+          "like_count": 711,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      }
+    ]
+  }
+}

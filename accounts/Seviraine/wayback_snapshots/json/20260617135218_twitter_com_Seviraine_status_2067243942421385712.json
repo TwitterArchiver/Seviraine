@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067243938336129024"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067243942421385712",
+    "created_at": "2026-06-17T13:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067243942421385712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2066092076044021761",
+          "start": 5,
+          "username": "Johnnamf0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N53IUqYq35",
+          "end": 39,
+          "expanded_url": "https://x.com/Seviraine/status/2067243942421385712/photo/1",
+          "media_key": "3_2067243938336129024",
+          "start": 16,
+          "url": "https://t.co/N53IUqYq35"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067243942421385712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "火鸡面，和@Johnnamf0 https://t.co/N53IUqYq35"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2067243938336129024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBTaMCawAAAbab.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067243938336129024"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067243942421385712",
+        "created_at": "2026-06-17T13:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067243942421385712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2066092076044021761",
+              "start": 5,
+              "username": "Johnnamf0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N53IUqYq35",
+              "end": 39,
+              "expanded_url": "https://x.com/Seviraine/status/2067243942421385712/photo/1",
+              "media_key": "3_2067243938336129024",
+              "start": 16,
+              "url": "https://t.co/N53IUqYq35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067243942421385712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "火鸡面，和@Johnnamf0 https://t.co/N53IUqYq35"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo我会回fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 172,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T09:36:41.000Z",
+        "description": "怠け者なのでオタク性に満ちている。",
+        "id": "2066092076044021761",
+        "location": "寻互fo",
+        "name": "ブラッド",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066898374457204736/mduULDJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "Johnnamf0",
+        "verified": false
+      }
+    ]
+  }
+}

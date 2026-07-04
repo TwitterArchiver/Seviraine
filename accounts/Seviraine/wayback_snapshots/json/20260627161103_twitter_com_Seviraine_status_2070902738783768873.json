@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2070551095105995158",
+    "created_at": "2026-06-27T16:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070902738783768873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2038807054555512836",
+          "start": 0,
+          "username": "8UFzQaS4el85899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070902738783768873",
+    "in_reply_to_user_id": "2038807054555512836",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070671577352724620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8UFzQaS4el85899 蟹蟹泥🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2070551095105995158",
+        "created_at": "2026-06-27T16:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070902738783768873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2038807054555512836",
+              "start": 0,
+              "username": "8UFzQaS4el85899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070902738783768873",
+        "in_reply_to_user_id": "2038807054555512836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070671577352724620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8UFzQaS4el85899 蟹蟹泥🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038807054555512836",
+        "conversation_id": "2070551095105995158",
+        "created_at": "2026-06-27T00:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T01:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070671577352724620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066080690438123520",
+              "start": 0,
+              "username": "Seviraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070671577352724620",
+        "in_reply_to_user_id": "2066080690438123520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070551095105995158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seviraine 自己画的吗 厉害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨爱发碎碎念 我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 236,
+          "like_count": 1010,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T02:34:23.000Z",
+        "description": "18cm超长大雕男",
+        "id": "2038807054555512836",
+        "location": "深圳",
+        "name": "苏..",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047515716493213696/uRrKDEWs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "8UFzQaS4el85899",
+        "verified": false
+      }
+    ]
+  }
+}

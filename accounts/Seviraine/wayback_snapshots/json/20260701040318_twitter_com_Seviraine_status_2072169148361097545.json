@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2072017849703657933",
+    "created_at": "2026-07-01T04:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072169148361097545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824480380797521920",
+          "start": 0,
+          "username": "emu_ddd_ume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072169148361097545",
+    "in_reply_to_user_id": "1824480380797521920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072017849703657933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emu_ddd_ume 玫瑰好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_2072017833975074817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFJPfJb0AEd2WV.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2072017849703657933",
+        "created_at": "2026-07-01T04:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072169148361097545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824480380797521920",
+              "start": 0,
+              "username": "emu_ddd_ume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072169148361097545",
+        "in_reply_to_user_id": "1824480380797521920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072017849703657933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emu_ddd_ume 玫瑰好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072017833975074817"
+          ]
+        },
+        "author_id": "1824480380797521920",
+        "conversation_id": "2072017849703657933",
+        "created_at": "2026-06-30T18:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072017849703657933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJyjph5xrN",
+              "end": 31,
+              "expanded_url": "https://x.com/emu_ddd_ume/status/2072017849703657933/photo/1",
+              "media_key": "3_2072017833975074817",
+              "start": 8,
+              "url": "https://t.co/bJyjph5xrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072017849703657933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "七月，天崩開局 https://t.co/bJyjph5xrN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨爱发碎碎念 我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071923670214176768/0g3cdovX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 245,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 437
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T16:16:47.000Z",
+        "description": "希死念慮/社不/病み/自傷\nトー横系だ、地雷系わけじゃない\nADHD.ASD(自閉症) 発達障害 双極性障害 \n自律神経失調症 パニック障害 不安障害\n同類互fo",
+        "id": "1824480380797521920",
+        "location": "天國",
+        "name": "えむ",
+        "pinned_tweet_id": "2066855691151978719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056589073192796160/pfix3XB9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 116,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "emu_ddd_ume",
+        "verified": false
+      }
+    ]
+  }
+}

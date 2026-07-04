@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2067222816248971444",
+    "created_at": "2026-06-17T12:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067222816248971444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1801038707828621312",
+          "start": 3,
+          "username": "LurRui"
+        },
+        {
+          "end": 22,
+          "id": "2066080690438123520",
+          "start": 12,
+          "username": "Seviraine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067222816248971444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067219481672425564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LurRui: @Seviraine 来个不上学熬成啥子的河北人，来个不偷井盖的的河南人，来个礼貌开车的湖北人，来个不打老婆的沙东人，来个不喝醋的山西人，来个一米七的四川人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2067222816248971444",
+        "created_at": "2026-06-17T12:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067222816248971444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1801038707828621312",
+              "start": 3,
+              "username": "LurRui"
+            },
+            {
+              "end": 22,
+              "id": "2066080690438123520",
+              "start": 12,
+              "username": "Seviraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067222816248971444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067219481672425564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LurRui: @Seviraine 来个不上学熬成啥子的河北人，来个不偷井盖的的河南人，来个礼貌开车的湖北人，来个不打老婆的沙东人，来个不喝醋的山西人，来个一米七的四川人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801038707828621312",
+        "conversation_id": "2067184401012928714",
+        "created_at": "2026-06-17T12:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067219481672425564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066080690438123520",
+              "start": 0,
+              "username": "Seviraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067219481672425564",
+        "in_reply_to_user_id": "2066080690438123520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067184401012928714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seviraine 来个不上学熬成啥子的河北人，来个不偷井盖的的河南人，来个礼貌开车的湖北人，来个不打老婆的沙东人，来个不喝醋的山西人，来个一米七的四川人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo我会回fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 172,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 144
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T23:47:53.000Z",
+        "description": "记得想起我",
+        "id": "1801038707828621312",
+        "name": "只会嘿嘿傻乐的绝望老农民",
+        "pinned_tweet_id": "2067048657392996790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823819446617825280/Ppz6-HBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 57
+        },
+        "username": "LurRui",
+        "verified": false
+      }
+    ]
+  }
+}

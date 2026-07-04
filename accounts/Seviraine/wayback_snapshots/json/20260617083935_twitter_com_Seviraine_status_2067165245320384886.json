@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2067165245320384886",
+    "created_at": "2026-06-17T08:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067165245320384886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066092076044021761",
+          "start": 3,
+          "username": "Johnnamf0"
+        },
+        {
+          "end": 22,
+          "id": "1596474007775158272",
+          "start": 14,
+          "username": "Shu10oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067165245320384886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "血仆\n@Johnnamf0\n@Shu10oo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2067165245320384886",
+        "created_at": "2026-06-17T08:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067165245320384886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066092076044021761",
+              "start": 3,
+              "username": "Johnnamf0"
+            },
+            {
+              "end": 22,
+              "id": "1596474007775158272",
+              "start": 14,
+              "username": "Shu10oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067165245320384886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "血仆\n@Johnnamf0\n@Shu10oo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo我会回fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 170,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 131
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T09:36:41.000Z",
+        "description": "怠け者なのでオタク性に満ちている。",
+        "id": "2066092076044021761",
+        "location": "寻互fo",
+        "name": "ブラッド",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066898374457204736/mduULDJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 56
+        },
+        "username": "Johnnamf0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T12:00:49.000Z",
+        "description": "不安。\n查成分互fo\n闺蜜@Sssse9uv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Sssse9uv"
+              }
+            ]
+          }
+        },
+        "id": "1596474007775158272",
+        "name": "作为不会悲伤的人类",
+        "pinned_tweet_id": "2051460103690449043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053864426764386304/XcegA562_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 87,
+          "like_count": 807,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 360
+        },
+        "username": "Shu10oo",
+        "verified": false
+      }
+    ]
+  }
+}

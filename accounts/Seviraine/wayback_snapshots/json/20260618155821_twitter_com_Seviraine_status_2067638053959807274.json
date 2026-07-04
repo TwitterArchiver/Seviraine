@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067638050189197312"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067638053959807274",
+    "created_at": "2026-06-18T15:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067638053959807274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xEuOLK521E",
+          "end": 26,
+          "expanded_url": "https://x.com/Seviraine/status/2067638053959807274/photo/1",
+          "media_key": "3_2067638050189197312",
+          "start": 3,
+          "url": "https://t.co/xEuOLK521E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067638053959807274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "报备 https://t.co/xEuOLK521E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067638050189197312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG52hGbwAAGfHZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067638050189197312"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067638053959807274",
+        "created_at": "2026-06-18T15:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067638053959807274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEuOLK521E",
+              "end": 26,
+              "expanded_url": "https://x.com/Seviraine/status/2067638053959807274/photo/1",
+              "media_key": "3_2067638050189197312",
+              "start": 3,
+              "url": "https://t.co/xEuOLK521E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067638053959807274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "报备 https://t.co/xEuOLK521E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo我会回fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 175,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 171
+        },
+        "username": "Seviraine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2069088585073271172",
+    "created_at": "2026-06-22T16:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069094576376443050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1670322365912461313",
+          "start": 0,
+          "username": "Seraphinexe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069094576376443050",
+    "in_reply_to_user_id": "1670322365912461313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069088585073271172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seraphinexe 生日快乐咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1302,
+        "media_key": "3_2069088581294215169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbhGijb0AE9WDb.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2069088585073271172",
+        "created_at": "2026-06-22T16:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069094576376443050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1670322365912461313",
+              "start": 0,
+              "username": "Seraphinexe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069094576376443050",
+        "in_reply_to_user_id": "1670322365912461313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069088585073271172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seraphinexe 生日快乐咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069088581294215169"
+          ]
+        },
+        "author_id": "1670322365912461313",
+        "conversation_id": "2069088585073271172",
+        "created_at": "2026-06-22T16:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069088585073271172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4b0T5mLXe9",
+              "end": 50,
+              "expanded_url": "https://x.com/Seraphinexe/status/2069088585073271172/photo/1",
+              "media_key": "3_2069088581294215169",
+              "start": 27,
+              "url": "https://t.co/4b0T5mLXe9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069088585073271172",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "𝐂𝐡𝐚𝐩𝐭𝐞𝐫 𝟏𝟖 𝐨𝐟 𝐥𝐢𝐟𝐞 𝐛𝐞𝐠𝐢𝐧𝐬. https://t.co/4b0T5mLXe9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 211,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T06:47:55.000Z",
+        "description": "爱不是一笔  恨不是一时",
+        "id": "1670322365912461313",
+        "location": "As you wish",
+        "name": "郁闷的土豆",
+        "pinned_tweet_id": "2065775061919993869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067852123426185216/0YNkY7f0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 129,
+          "like_count": 6155,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 533
+        },
+        "url": "",
+        "username": "Seraphinexe",
+        "verified": false
+      }
+    ]
+  }
+}

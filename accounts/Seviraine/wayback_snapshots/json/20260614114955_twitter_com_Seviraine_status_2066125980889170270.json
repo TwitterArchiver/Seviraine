@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1427352573401452555",
+          "name": "Crisis in Afghanistan"
+        }
+      }
+    ],
+    "conversation_id": "2066125980889170270",
+    "created_at": "2026-06-14T11:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066125980889170270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1271818845167239170",
+          "start": 3,
+          "username": "pyari_eyesha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066125980889170270",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27227
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065669815961096370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pyari_eyesha: Talking to parents about mental health is like discussing Feminism with Taliban"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427352573401452555",
+              "name": "Crisis in Afghanistan"
+            }
+          }
+        ],
+        "conversation_id": "2066125980889170270",
+        "created_at": "2026-06-14T11:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066125980889170270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1271818845167239170",
+              "start": 3,
+              "username": "pyari_eyesha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066125980889170270",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27227
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065669815961096370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pyari_eyesha: Talking to parents about mental health is like discussing Feminism with Taliban"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271818845167239170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427352573401452555",
+              "name": "Crisis in Afghanistan"
+            }
+          }
+        ],
+        "conversation_id": "2065669815961096370",
+        "created_at": "2026-06-13T05:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065669815961096370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065669815961096370",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9206,
+          "impression_count": 2276433,
+          "like_count": 184971,
+          "quote_count": 907,
+          "reply_count": 461,
+          "retweet_count": 27227
+        },
+        "reply_settings": "everyone",
+        "text": "Talking to parents about mental health is like discussing Feminism with Taliban"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "辱男辱女地域黑",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T14:57:08.000Z",
+        "description": "Just an earth angel dreaming of her wings🦋",
+        "id": "1271818845167239170",
+        "location": "Near you♡",
+        "name": "ع",
+        "pinned_tweet_id": "1804084362968699266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053195773123440640/rOw0wIdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4389,
+          "following_count": 892,
+          "like_count": 34262,
+          "listed_count": 3,
+          "media_count": 764,
+          "tweet_count": 16619
+        },
+        "username": "pyari_eyesha",
+        "verified": false
+      }
+    ]
+  }
+}

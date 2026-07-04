@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066426893243683203",
+    "created_at": "2026-06-15T07:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066426893243683203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901633821696483329",
+          "start": 3,
+          "username": "even12694"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066426893243683203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066339844448715243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @even12694: 我还很擅长地域黑，全国没有几个我喜欢的省份"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066426893243683203",
+        "created_at": "2026-06-15T07:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066426893243683203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901633821696483329",
+              "start": 3,
+              "username": "even12694"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066426893243683203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066339844448715243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @even12694: 我还很擅长地域黑，全国没有几个我喜欢的省份"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901633821696483329",
+        "conversation_id": "2066339844448715243",
+        "created_at": "2026-06-15T01:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066339844448715243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066339844448715243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还很擅长地域黑，全国没有几个我喜欢的省份"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨重焦重抑 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 祝您早日活全家",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 125,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 65
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T13:57:08.000Z",
+        "description": "在点赞之前我已经看完了你的主页所有内容，点赞的意思是我觉得你蛮萌的。",
+        "id": "1901633821696483329",
+        "name": "ZzGG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058918434734272512/iwQSERnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 23,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 661
+        },
+        "username": "even12694",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2067840704026705958",
+    "created_at": "2026-06-19T12:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067952189725942128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755664020944941056",
+          "start": 0,
+          "username": "Korewoizontoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067952189725942128",
+    "in_reply_to_user_id": "1755664020944941056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067840704026705958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Korewoizontoyo 妈咪(´◊ω◊｀)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9466,
+        "height": 1280,
+        "media_key": "13_2067840638637469696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067840638637469696/img/ifHNFoNL-ILMDTlo.jpg",
+        "public_metrics": {
+          "view_count": 123
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067840638637469696/vid/avc1/320x568/lBOrbELkN1mIfjvh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067840638637469696/vid/avc1/480x852/3OklPU8dSoD4SyzE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067840638637469696/vid/avc1/720x1280/rZ3Z8UFzNld6oQIB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067840638637469696/pl/loKiynO9OqbkIPOz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2067840704026705958",
+        "created_at": "2026-06-19T12:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067952189725942128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "Korewoizontoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067952189725942128",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067840704026705958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Korewoizontoyo 妈咪(´◊ω◊｀)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067840638637469696"
+          ]
+        },
+        "author_id": "1755664020944941056",
+        "conversation_id": "2067840704026705958",
+        "created_at": "2026-06-19T05:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067840704026705958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d113AHbrrV",
+              "end": 31,
+              "expanded_url": "https://x.com/Korewoizontoyo/status/2067840704026705958/video/1",
+              "media_key": "13_2067840638637469696",
+              "start": 8,
+              "url": "https://t.co/d113AHbrrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067840704026705958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。重加工好虐。 https://t.co/d113AHbrrV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 187,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。oder。自残自伤。10。可以互fo，我会查成分回关。",
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2067641877361541426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065774972472344576/pRvlbEiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 430,
+          "like_count": 1856,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 593
+        },
+        "url": "",
+        "username": "Korewoizontoyo",
+        "verified": false
+      }
+    ]
+  }
+}

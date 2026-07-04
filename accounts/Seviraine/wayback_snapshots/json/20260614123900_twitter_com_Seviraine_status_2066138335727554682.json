@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066138335727554682",
+    "created_at": "2026-06-14T12:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066138335727554682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1414744482940022818",
+          "start": 3,
+          "username": "neocollector"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066138335727554682",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2782
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065543401840521248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neocollector: teens will be suicidal, homicidal, seIf harm, have multiple drug addictions, be in &amp; out of multiple abusive relationship…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066138335727554682",
+        "created_at": "2026-06-14T12:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066138335727554682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1414744482940022818",
+              "start": 3,
+              "username": "neocollector"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066138335727554682",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2782
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065543401840521248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neocollector: teens will be suicidal, homicidal, seIf harm, have multiple drug addictions, be in &amp; out of multiple abusive relationship…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414744482940022818",
+        "conversation_id": "2065543401840521248",
+        "created_at": "2026-06-12T21:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T22:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065543401840521248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065543401840521248",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 488,
+          "impression_count": 70931,
+          "like_count": 11117,
+          "quote_count": 55,
+          "reply_count": 23,
+          "retweet_count": 2782
+        },
+        "reply_settings": "everyone",
+        "text": "teens will be suicidal, homicidal, seIf harm, have multiple drug addictions, be in &amp; out of multiple abusive relationships, hallucinate, isolate, have complete delusions and yall will STILL say “it’s the teen years they’re supposed to be like that it’s just hormones”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "号主辱男辱女地域黑\n祝您早日死全家",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-13T00:32:33.000Z",
+        "description": "So, surely with hardship comes ease • 27 • mdnf • vegetarian • an-r & arfid • disabled • pro-recov • 5’0.5 • genderfluid roseusboy • aroace sapphic • cw: ~100",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neocollector.straw.page",
+                "end": 23,
+                "expanded_url": "http://neocollector.straw.page",
+                "start": 0,
+                "url": "https://t.co/AkcdYdV8ZI"
+              }
+            ]
+          }
+        },
+        "id": "1414744482940022818",
+        "location": "moon/pup/doll/it+he",
+        "name": "💛 vespera 💛 ☿♂♀ body recomp era",
+        "pinned_tweet_id": "2048243347861668255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048207446804709377/CuEMwdp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7011,
+          "following_count": 3256,
+          "like_count": 136632,
+          "listed_count": 81,
+          "media_count": 11249,
+          "tweet_count": 82510
+        },
+        "url": "https://t.co/AkcdYdV8ZI",
+        "username": "neocollector",
+        "verified": false
+      }
+    ]
+  }
+}

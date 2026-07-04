@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066620455524745216"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066620458573947282",
+    "created_at": "2026-06-15T20:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T21:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066620458573947282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n9vMQqwGCi",
+          "end": 30,
+          "expanded_url": "https://x.com/Seviraine/status/2066620458573947282/photo/1",
+          "media_key": "3_2066620455524745216",
+          "start": 7,
+          "url": "https://t.co/n9vMQqwGCi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066620458573947282",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我弄的好狼狽 https://t.co/n9vMQqwGCi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066620455524745216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4cWtkbwAAhr1z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066620455524745216"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066620458573947282",
+        "created_at": "2026-06-15T20:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066620458573947282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9vMQqwGCi",
+              "end": 30,
+              "expanded_url": "https://x.com/Seviraine/status/2066620458573947282/photo/1",
+              "media_key": "3_2066620455524745216",
+              "start": 7,
+              "url": "https://t.co/n9vMQqwGCi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066620458573947282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我弄的好狼狽 https://t.co/n9vMQqwGCi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo我会回fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 144,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 95
+        },
+        "username": "Seviraine",
+        "verified": false
+      }
+    ]
+  }
+}

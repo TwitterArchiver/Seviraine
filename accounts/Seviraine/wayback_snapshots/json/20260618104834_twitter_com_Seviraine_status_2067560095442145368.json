@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2067560095442145368",
+    "created_at": "2026-06-18T10:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067560095442145368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1403238479899811847",
+          "start": 3,
+          "username": "LqeYk4ooUGgqB7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067560095442145368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067275793731104863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LqeYk4ooUGgqB7c: 中国人一看到馒头逼就走不动路了\n这是骨子里对碳水的热爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2067560095442145368",
+        "created_at": "2026-06-18T10:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067560095442145368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1403238479899811847",
+              "start": 3,
+              "username": "LqeYk4ooUGgqB7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067560095442145368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067275793731104863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LqeYk4ooUGgqB7c: 中国人一看到馒头逼就走不动路了\n这是骨子里对碳水的热爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403238479899811847",
+        "conversation_id": "2067275793731104863",
+        "created_at": "2026-06-17T15:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067275793731104863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067275793731104863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 60285,
+          "like_count": 583,
+          "quote_count": 0,
+          "reply_count": 92,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "中国人一看到馒头逼就走不动路了\n这是骨子里对碳水的热爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo我会回fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 174,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 162
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-11T06:32:00.000Z",
+        "description": "当pyq发啦 🚪99",
+        "id": "1403238479899811847",
+        "location": "20.8km",
+        "name": "摆烂小鱼",
+        "pinned_tweet_id": "2036842761966772421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011475900039380992/YvHWrbQ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 79,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 242
+        },
+        "username": "LqeYk4ooUGgqB7c",
+        "verified": false
+      }
+    ]
+  }
+}

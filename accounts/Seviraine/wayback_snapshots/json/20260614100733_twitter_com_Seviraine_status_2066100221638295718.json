@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066100221638295718",
+    "created_at": "2026-06-14T10:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066100221638295718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1991169094641745921",
+          "start": 3,
+          "username": "nucqy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066100221638295718",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065826914699501733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nucqy: 学年の人中1で処女卒してるのえぐい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066100221638295718",
+        "created_at": "2026-06-14T10:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066100221638295718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1991169094641745921",
+              "start": 3,
+              "username": "nucqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066100221638295718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065826914699501733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nucqy: 学年の人中1で処女卒してるのえぐい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991169094641745921",
+        "conversation_id": "2065826914699501733",
+        "created_at": "2026-06-13T16:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065826914699501733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065826914699501733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 604687,
+          "like_count": 3127,
+          "quote_count": 31,
+          "reply_count": 88,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "学年の人中1で処女卒してるのえぐい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T15:41:11.000Z",
+        "description": "キチガイは図書室に来んな",
+        "id": "1991169094641745921",
+        "location": "親指コンプ",
+        "name": "るとlu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017513447890817026/mzSzhkYY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 39,
+          "like_count": 4571,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 369
+        },
+        "username": "nucqy",
+        "verified": false
+      }
+    ]
+  }
+}

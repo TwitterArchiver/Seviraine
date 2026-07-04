@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066165030190817785",
+    "created_at": "2026-06-14T14:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066165030190817785"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KarBwk5251/sta…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/KarBwk5251/status/2066146919379030084",
+          "start": 25,
+          "url": "https://t.co/lWOwoLFlZx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066165030190817785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066146919379030084",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "张雪峰是我很喜欢的一个老师，只不过最近不说话了😂 https://t.co/lWOwoLFlZx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066146916367486976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxtrGvaUAABfDO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066165030190817785",
+        "created_at": "2026-06-14T14:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066165030190817785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KarBwk5251/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/KarBwk5251/status/2066146919379030084",
+              "start": 25,
+              "url": "https://t.co/lWOwoLFlZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066165030190817785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066146919379030084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "张雪峰是我很喜欢的一个老师，只不过最近不说话了😂 https://t.co/lWOwoLFlZx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066146916367486976"
+          ]
+        },
+        "author_id": "1650209029724196865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066146919379030084",
+        "created_at": "2026-06-14T13:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066146919379030084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jg9MKoMfy8",
+              "end": 29,
+              "expanded_url": "https://x.com/KarBwk5251/status/2066146919379030084/photo/1",
+              "media_key": "3_2066146916367486976",
+              "start": 6,
+              "url": "https://t.co/Jg9MKoMfy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066146919379030084",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性病张雪峰 https://t.co/Jg9MKoMfy8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "号主辱男辱女爱地域黑爱od割手精神病一个 你把手机摔了我就死了 放下屠刀祝您早日活全家",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T18:44:49.000Z",
+        "description": "我是小桃\n🐱叫圈圈\n非二元\n乐乐\n不看黄也不建政（假的）我是中推最美逆行人",
+        "id": "1650209029724196865",
+        "location": "Yuki是我的宝宝～(^з^)-♡",
+        "name": "☔️8964.星露谷钓鱼佬桃酱☔️",
+        "pinned_tweet_id": "2061734360253186517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062205980759527424/7r6Wt9gF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 1929,
+          "like_count": 11411,
+          "listed_count": 3,
+          "media_count": 1925,
+          "tweet_count": 8612
+        },
+        "username": "KarBwk5251",
+        "verified": false
+      }
+    ]
+  }
+}

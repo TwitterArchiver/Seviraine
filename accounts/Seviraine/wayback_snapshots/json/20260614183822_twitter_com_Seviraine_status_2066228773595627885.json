@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066047580489109944",
+    "created_at": "2026-06-14T18:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066228773595627885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753116711899770880",
+          "start": 0,
+          "username": "elna_elvie9091"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066228773595627885",
+    "in_reply_to_user_id": "1753116711899770880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066047580489109944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elna_elvie9091 我稀饭你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066047580489109944",
+        "created_at": "2026-06-14T18:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066228773595627885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753116711899770880",
+              "start": 0,
+              "username": "elna_elvie9091"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066228773595627885",
+        "in_reply_to_user_id": "1753116711899770880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066047580489109944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elna_elvie9091 我稀饭你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753116711899770880",
+        "conversation_id": "2066047580489109944",
+        "created_at": "2026-06-14T06:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066047580489109944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066047580489109944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有女孩子喜欢我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨重焦重抑 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 祝您早日活全家",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 90,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 45
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T18:03:02.000Z",
+        "description": "寻回互fo\n大号@Shivam3228\n牛马号💊@BhawnaniSamit\n我爱小猫小猫爱我\n毒蛆网蛆_爱我请给我钱……\n12-09-17_末影人\n被幽灵ban。绝望",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 38,
+                "start": 24,
+                "username": "BhawnaniSamit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/zUzSoYcfrf"
+              }
+            ]
+          }
+        },
+        "id": "1753116711899770880",
+        "location": "你身后",
+        "name": "一个数字",
+        "pinned_tweet_id": "2064225379548901404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062219571063652352/fkkLNX-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 275,
+          "like_count": 1416,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 646
+        },
+        "url": "https://t.co/zUzSoYcfrf",
+        "username": "elna_elvie9091",
+        "verified": false
+      }
+    ]
+  }
+}

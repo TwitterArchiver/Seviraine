@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066483614918078464"
+      ],
+      "media_source_tweet_id": [
+        "2066483619951214743"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066555606744657977",
+    "created_at": "2026-06-15T16:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066555606744657977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063994496749387776",
+          "start": 3,
+          "username": "loserDog1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NfRusKjPeF",
+          "end": 62,
+          "expanded_url": "https://x.com/loserDog1111/status/2066483619951214743/photo/1",
+          "media_key": "3_2066483614918078464",
+          "start": 39,
+          "url": "https://t.co/NfRusKjPeF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066555606744657977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 227
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066483619951214743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loserDog1111: あの子のそばでずっとずっと ずっとずっと https://t.co/NfRusKjPeF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066483614918078464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2f5ilbcAA5JNa.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066483614918078464"
+          ],
+          "media_source_tweet_id": [
+            "2066483619951214743"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066555606744657977",
+        "created_at": "2026-06-15T16:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066555606744657977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063994496749387776",
+              "start": 3,
+              "username": "loserDog1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NfRusKjPeF",
+              "end": 62,
+              "expanded_url": "https://x.com/loserDog1111/status/2066483619951214743/photo/1",
+              "media_key": "3_2066483614918078464",
+              "start": 39,
+              "url": "https://t.co/NfRusKjPeF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066555606744657977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 227
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066483619951214743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loserDog1111: あの子のそばでずっとずっと ずっとずっと https://t.co/NfRusKjPeF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066483614918078464"
+          ]
+        },
+        "author_id": "2063994496749387776",
+        "conversation_id": "2066483619951214743",
+        "created_at": "2026-06-15T11:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066483619951214743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NfRusKjPeF",
+              "end": 44,
+              "expanded_url": "https://x.com/loserDog1111/status/2066483619951214743/photo/1",
+              "media_key": "3_2066483614918078464",
+              "start": 21,
+              "url": "https://t.co/NfRusKjPeF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066483619951214743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 11500,
+          "like_count": 2098,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 227
+        },
+        "reply_settings": "everyone",
+        "text": "あの子のそばでずっとずっと ずっとずっと https://t.co/NfRusKjPeF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨重焦重抑 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 祝您早日活全家",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 140,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 87
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T14:44:08.000Z",
+        "description": "負け犬です。FA･報告等→ #負巜犬11 \nご依頼→ https://t.co/vrB72aLFdd",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 14,
+                "tag": "負巜犬11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/loserDog1111",
+                "end": 50,
+                "expanded_url": "https://lit.link/loserDog1111",
+                "start": 27,
+                "url": "https://t.co/vrB72aLFdd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/bk16vflkb…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/bk16vflkbqnifj8m",
+                "start": 0,
+                "url": "https://t.co/OuMOe472AH"
+              }
+            ]
+          }
+        },
+        "id": "2063994496749387776",
+        "location": "無断転載･使用･AI使用禁止",
+        "name": "負K℃",
+        "pinned_tweet_id": "2066015088595833030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064025842213412864/Xm1hvTXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 8,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/OuMOe472AH",
+        "username": "loserDog1111",
+        "verified": false
+      }
+    ]
+  }
+}

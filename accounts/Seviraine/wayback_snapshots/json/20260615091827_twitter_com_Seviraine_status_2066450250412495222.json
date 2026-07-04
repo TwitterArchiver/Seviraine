@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2065826514244128768"
+      ],
+      "media_source_tweet_id": [
+        "2065826601900876212"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066450250412495222",
+    "created_at": "2026-06-15T09:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066450250412495222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1769141705192976384",
+          "start": 3,
+          "username": "r0ttedcore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pi254Rzn0i",
+          "end": 39,
+          "expanded_url": "https://x.com/Gurokawazai/status/2065826601900876212/video/1",
+          "media_key": "7_2065826514244128768",
+          "start": 16,
+          "url": "https://t.co/Pi254Rzn0i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066450250412495222",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066308890963427557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @r0ttedcore: https://t.co/Pi254Rzn0i"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36757,
+        "height": 720,
+        "media_key": "7_2065826514244128768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065826514244128768/pu/img/7BGw8ryz4x8AJ_Hm.jpg",
+        "public_metrics": {
+          "view_count": 84997
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065826514244128768/pu/vid/avc1/282x270/9MJPWH0jtGHlhNSP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065826514244128768/pu/vid/avc1/376x360/o4y11RhMnMNBBHoG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065826514244128768/pu/vid/avc1/752x720/L78cK_oUIg2M1dwN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065826514244128768/pu/pl/WXu5id83UlXBfr9-.m3u8?tag=12"
+          }
+        ],
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065826514244128768"
+          ],
+          "media_source_tweet_id": [
+            "2065826601900876212"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066450250412495222",
+        "created_at": "2026-06-15T09:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066450250412495222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1769141705192976384",
+              "start": 3,
+              "username": "r0ttedcore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pi254Rzn0i",
+              "end": 39,
+              "expanded_url": "https://x.com/Gurokawazai/status/2065826601900876212/video/1",
+              "media_key": "7_2065826514244128768",
+              "start": 16,
+              "url": "https://t.co/Pi254Rzn0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066450250412495222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066308890963427557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @r0ttedcore: https://t.co/Pi254Rzn0i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065826514244128768"
+          ],
+          "media_source_tweet_id": [
+            "2065826601900876212"
+          ]
+        },
+        "author_id": "1769141705192976384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066308890963427557",
+        "created_at": "2026-06-14T23:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T00:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066308890963427557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pi254Rzn0i",
+              "end": 23,
+              "expanded_url": "https://x.com/Gurokawazai/status/2065826601900876212/video/1",
+              "media_key": "7_2065826514244128768",
+              "start": 0,
+              "url": "https://t.co/Pi254Rzn0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066308890963427557",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 5053,
+          "like_count": 383,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Pi254Rzn0i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨重焦重抑 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 祝您早日活全家",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 128,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 71
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T23:20:37.000Z",
+        "description": "“The anoretic operates under the astounding illusion that she can escape the flesh and, by association, the realm of emotions.”",
+        "id": "1769141705192976384",
+        "location": "27f ",
+        "name": "Odelie 𓁹‿𓁹",
+        "pinned_tweet_id": "1792300359823835444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773812937075093504/oF4kpqWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 444,
+          "like_count": 8593,
+          "listed_count": 6,
+          "media_count": 314,
+          "tweet_count": 2480
+        },
+        "username": "r0ttedcore",
+        "verified": false
+      }
+    ]
+  }
+}

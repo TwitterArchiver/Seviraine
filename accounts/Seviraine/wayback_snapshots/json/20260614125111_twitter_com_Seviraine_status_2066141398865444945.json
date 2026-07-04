@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065227224198905856",
+        "3_2065227240120442880"
+      ],
+      "media_source_tweet_id": [
+        "2065494343100620822",
+        "2065494343100620822"
+      ]
+    },
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066141398865444945",
+    "created_at": "2026-06-14T12:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066141398865444945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "911294414781337600",
+          "start": 3,
+          "username": "itsD3lay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SI7wBbi7Ga",
+          "end": 69,
+          "expanded_url": "https://x.com/itsD3lay/status/2065494343100620822/photo/1",
+          "media_key": "3_2065227224198905856",
+          "start": 46,
+          "url": "https://t.co/SI7wBbi7Ga"
+        },
+        {
+          "display_url": "pic.x.com/SI7wBbi7Ga",
+          "end": 69,
+          "expanded_url": "https://x.com/itsD3lay/status/2065494343100620822/photo/1",
+          "media_key": "3_2065227240120442880",
+          "start": 46,
+          "url": "https://t.co/SI7wBbi7Ga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066141398865444945",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5865
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065494343100620822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsD3lay: “misma función, misma adicción” https://t.co/SI7wBbi7Ga"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2065227224198905856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkpN-bXgAAIMHO.png",
+        "width": 315
+      },
+      {
+        "height": 600,
+        "media_key": "3_2065227240120442880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkpO5vW4AAchYd.png",
+        "width": 424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065227224198905856",
+            "3_2065227240120442880"
+          ],
+          "media_source_tweet_id": [
+            "2065494343100620822",
+            "2065494343100620822"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066141398865444945",
+        "created_at": "2026-06-14T12:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066141398865444945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "911294414781337600",
+              "start": 3,
+              "username": "itsD3lay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SI7wBbi7Ga",
+              "end": 69,
+              "expanded_url": "https://x.com/itsD3lay/status/2065494343100620822/photo/1",
+              "media_key": "3_2065227224198905856",
+              "start": 46,
+              "url": "https://t.co/SI7wBbi7Ga"
+            },
+            {
+              "display_url": "pic.x.com/SI7wBbi7Ga",
+              "end": 69,
+              "expanded_url": "https://x.com/itsD3lay/status/2065494343100620822/photo/1",
+              "media_key": "3_2065227240120442880",
+              "start": 46,
+              "url": "https://t.co/SI7wBbi7Ga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066141398865444945",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5865
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065494343100620822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsD3lay: “misma función, misma adicción” https://t.co/SI7wBbi7Ga"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065227224198905856",
+            "3_2065227240120442880"
+          ]
+        },
+        "author_id": "911294414781337600",
+        "conversation_id": "2065494343100620822",
+        "created_at": "2026-06-12T18:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065494343100620822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SI7wBbi7Ga",
+              "end": 55,
+              "expanded_url": "https://x.com/itsD3lay/status/2065494343100620822/photo/1",
+              "media_key": "3_2065227224198905856",
+              "start": 32,
+              "url": "https://t.co/SI7wBbi7Ga"
+            },
+            {
+              "display_url": "pic.x.com/SI7wBbi7Ga",
+              "end": 55,
+              "expanded_url": "https://x.com/itsD3lay/status/2065494343100620822/photo/1",
+              "media_key": "3_2065227240120442880",
+              "start": 32,
+              "url": "https://t.co/SI7wBbi7Ga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065494343100620822",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 76801,
+          "like_count": 14091,
+          "quote_count": 14,
+          "reply_count": 7,
+          "retweet_count": 5865
+        },
+        "reply_settings": "everyone",
+        "text": "“misma función, misma adicción” https://t.co/SI7wBbi7Ga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "号主辱男辱女地域黑\n祝您早日死全家",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-22T18:21:34.000Z",
+        "description": "📥 contacto: itsd3laybusiness@gmail.com📩 \n@ToshiBet | BYTS COMP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "ToshiBet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pablosans34/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/pablosans34/",
+                "start": 0,
+                "url": "https://t.co/EjiUPH2UjF"
+              }
+            ]
+          }
+        },
+        "id": "911294414781337600",
+        "location": "bcn",
+        "name": "itsD3lay🐧",
+        "pinned_tweet_id": "2003258938356301936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611849135732277249/52jKE673_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156559,
+          "following_count": 1215,
+          "like_count": 773644,
+          "listed_count": 282,
+          "media_count": 22011,
+          "tweet_count": 76505
+        },
+        "url": "https://t.co/EjiUPH2UjF",
+        "username": "itsD3lay",
+        "verified": true
+      }
+    ]
+  }
+}

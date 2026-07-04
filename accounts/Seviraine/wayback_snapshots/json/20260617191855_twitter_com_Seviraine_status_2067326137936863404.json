@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2067184401012928714",
+    "created_at": "2026-06-17T19:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067326137936863404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046794460126969856",
+          "start": 0,
+          "username": "a1501161870"
+        },
+        {
+          "end": 27,
+          "id": "2058319321441411072",
+          "start": 13,
+          "username": "7oveforever14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067326137936863404",
+    "in_reply_to_user_id": "2046794460126969856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067324484286349521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1501161870 @7oveforever14 来个不排外不傲慢真有钱的浙江人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2067184401012928714",
+        "created_at": "2026-06-17T19:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067326137936863404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046794460126969856",
+              "start": 0,
+              "username": "a1501161870"
+            },
+            {
+              "end": 27,
+              "id": "2058319321441411072",
+              "start": 13,
+              "username": "7oveforever14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067326137936863404",
+        "in_reply_to_user_id": "2046794460126969856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067324484286349521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1501161870 @7oveforever14 来个不排外不傲慢真有钱的浙江人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046794460126969856",
+        "conversation_id": "2067184401012928714",
+        "created_at": "2026-06-17T19:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067324484286349521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058319321441411072",
+              "start": 0,
+              "username": "7oveforever14"
+            },
+            {
+              "end": 25,
+              "id": "2066080690438123520",
+              "start": 15,
+              "username": "Seviraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067324484286349521",
+        "in_reply_to_user_id": "2058319321441411072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067231777479889189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7oveforever14 @Seviraine 与世无争的浙江人(~‾▿‾)~〜(꒪꒳꒪)〜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo我会回fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 172,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 154
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T03:33:31.000Z",
+        "description": "泥嚎！",
+        "id": "2046794460126969856",
+        "name": "林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051314772701069312/3CSWgSas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 38,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "a1501161870",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T22:54:47.000Z",
+        "description": "ip意大利 水瓶座 isfp-t冒险家\n我喜欢轻松自在的氛围\n回应有礼貌的正常人https://t.co/HhgNZjxKr1\n欢迎萌萌的小女孩们\n中意时差慢6h\n聊天纯绿 别辱骂别破防\n不看各种照片",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo41845",
+                "end": 63,
+                "expanded_url": "https://ngl.link/ovo41845",
+                "start": 40,
+                "url": "https://t.co/HhgNZjxKr1"
+              }
+            ]
+          }
+        },
+        "id": "2058319321441411072",
+        "name": "ovo",
+        "pinned_tweet_id": "2060169756691353744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063236660062543872/PWeiXiaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 123,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1024
+        },
+        "username": "7oveforever14",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2070370505526477060",
+    "created_at": "2026-06-26T08:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070422047029973341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768755544154845184",
+          "start": 0,
+          "username": "koitoyuuuuuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070422047029973341",
+    "in_reply_to_user_id": "1768755544154845184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070370505526477060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koitoyuuuuuuuuu 🤤🤤开次开次"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1888,
+        "media_key": "3_2070370494193541120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtu_sPbIAAfLo0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2070370505526477060",
+        "created_at": "2026-06-26T08:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070422047029973341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768755544154845184",
+              "start": 0,
+              "username": "koitoyuuuuuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070422047029973341",
+        "in_reply_to_user_id": "1768755544154845184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070370505526477060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koitoyuuuuuuuuu 🤤🤤开次开次"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070370494193541120"
+          ]
+        },
+        "author_id": "1768755544154845184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070370505526477060",
+        "created_at": "2026-06-26T04:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070370505526477060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fy37r0ppKL",
+              "end": 23,
+              "expanded_url": "https://x.com/koitoyuuuuuuuuu/status/2070370505526477060/photo/1",
+              "media_key": "3_2070370494193541120",
+              "start": 0,
+              "url": "https://t.co/fy37r0ppKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070370505526477060",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fy37r0ppKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 231,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 401
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T21:46:16.000Z",
+        "description": "低浮上\n皮下是章鱼哥，求精神病互fo，没回fo可以私信我",
+        "id": "1768755544154845184",
+        "location": "成都",
+        "name": "こいとゆう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070045263918755840/lhyYYe9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 41,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "koitoyuuuuuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

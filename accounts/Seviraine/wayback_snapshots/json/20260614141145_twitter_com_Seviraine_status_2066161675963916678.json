@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066161675963916678",
+    "created_at": "2026-06-14T14:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066161675963916678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suishoucrystal…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/suishoucrystal/status/2066052040191771017",
+          "start": 6,
+          "url": "https://t.co/bs8G5MWNkd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066161675963916678",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066052040191771017",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "坤坤自由了 https://t.co/bs8G5MWNkd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2066051689447407616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwXEK0bwAA7DBL.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066161675963916678",
+        "created_at": "2026-06-14T14:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066161675963916678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suishoucrystal…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/suishoucrystal/status/2066052040191771017",
+              "start": 6,
+              "url": "https://t.co/bs8G5MWNkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066161675963916678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066052040191771017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "坤坤自由了 https://t.co/bs8G5MWNkd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066051689447407616"
+          ]
+        },
+        "author_id": "1841306675674075136",
+        "conversation_id": "2066052040191771017",
+        "created_at": "2026-06-14T06:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066052040191771017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/copypbWHA2",
+              "end": 46,
+              "expanded_url": "https://x.com/suishoucrystal/status/2066052040191771017/photo/1",
+              "media_key": "3_2066051689447407616",
+              "start": 23,
+              "url": "https://t.co/copypbWHA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066052040191771017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 757,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥生前要用肉体服务你，死后也要用肉体服务你 https://t.co/copypbWHA2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "号主辱男辱女地域黑精神病一个 你把手机摔了我就死了 祝您早日活全家",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "日本語+データサイエンス専攻 JPOP夢中 @AORINGOHUZIN ファン🍏📰中国速報🌗友跨🍥中推圈锐评家，独立时评人🌗钻研 数码科技/经济社会/跨境支付与理财 跨境引路人:@bailyLU 我出色的老乡:@realNyarime 中文区头部数码推主:@jlxc2001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "AORINGOHUZIN"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "bailyLU"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "realNyarime"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "jlxc2001"
+              }
+            ]
+          }
+        },
+        "id": "1841306675674075136",
+        "location": "金門縣",
+        "name": "水晶クリスタル",
+        "pinned_tweet_id": "2064919117703045329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 1443,
+          "like_count": 2031,
+          "listed_count": 3,
+          "media_count": 399,
+          "tweet_count": 4342
+        },
+        "username": "suishoucrystal",
+        "verified": true
+      }
+    ]
+  }
+}

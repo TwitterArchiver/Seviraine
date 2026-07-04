@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066219170451398773",
+    "created_at": "2026-06-14T18:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066219170451398773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "shennaichuan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066219170451398773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044929869922832631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shennaichuan_: 如果你在十几岁这个美好的年纪已经变成了，磕药逼，惨圈女，地雷女，裸照妹，反差婊，混圈女，二次元，婊子，接触了cos，朋友圈，自残，长发男，早恋。那你这辈子都毁了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066219170451398773",
+        "created_at": "2026-06-14T18:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066219170451398773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066219170451398773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044929869922832631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shennaichuan_: 如果你在十几岁这个美好的年纪已经变成了，磕药逼，惨圈女，地雷女，裸照妹，反差婊，混圈女，二次元，婊子，接触了cos，朋友圈，自残，长发男，早恋。那你这辈子都毁了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2044929869922832631",
+        "created_at": "2026-04-17T00:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T01:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044929869922832631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044929869922832631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 60414,
+          "like_count": 950,
+          "quote_count": 13,
+          "reply_count": 118,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "如果你在十几岁这个美好的年纪已经变成了，磕药逼，惨圈女，地雷女，裸照妹，反差婊，混圈女，二次元，婊子，接触了cos，朋友圈，自残，长发男，早恋。那你这辈子都毁了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨重焦重抑 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 祝您早日活全家",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 89,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 490,
+          "like_count": 768,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 2381
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

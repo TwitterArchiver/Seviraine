@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2066144364720771177",
+    "created_at": "2026-06-14T13:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066144364720771177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2050566949223251968",
+          "start": 3,
+          "username": "7UaRYFNrp216413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066144364720771177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066102565025263662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7UaRYFNrp216413: 约就约，卖就卖，嗑就嗑，o就o，扣就扣，导就导，谈就谈，塌就塌，活就活，死就死了\n爱咋咋能不能不要干涉别人那么多，每个人现阶段的状态都不一样，那么爱评判，过好自己懵逼的小日子不好吗。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2066144364720771177",
+        "created_at": "2026-06-14T13:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066144364720771177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2050566949223251968",
+              "start": 3,
+              "username": "7UaRYFNrp216413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066144364720771177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066102565025263662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7UaRYFNrp216413: 约就约，卖就卖，嗑就嗑，o就o，扣就扣，导就导，谈就谈，塌就塌，活就活，死就死了\n爱咋咋能不能不要干涉别人那么多，每个人现阶段的状态都不一样，那么爱评判，过好自己懵逼的小日子不好吗。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050566949223251968",
+        "conversation_id": "2066102565025263662",
+        "created_at": "2026-06-14T10:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066102565025263662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066102565025263662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 551,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "约就约，卖就卖，嗑就嗑，o就o，扣就扣，导就导，谈就谈，塌就塌，活就活，死就死了\n爱咋咋能不能不要干涉别人那么多，每个人现阶段的状态都不一样，那么爱评判，过好自己懵逼的小日子不好吗。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "号主辱男辱女地域黑\n祝您早日死全家",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "pinned_tweet_id": "2066144011296096495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T13:24:15.000Z",
+        "description": "随便发欲望使然...唉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/weishiji",
+                "end": 23,
+                "expanded_url": "https://ngl.link/weishiji",
+                "start": 0,
+                "url": "https://t.co/rjD6BMsO89"
+              }
+            ]
+          }
+        },
+        "id": "2050566949223251968",
+        "name": "SoberMand",
+        "pinned_tweet_id": "2062198187000262823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060030609653903360/FSKxkNYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 26,
+          "like_count": 357,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/rjD6BMsO89",
+        "username": "7UaRYFNrp216413",
+        "verified": false
+      }
+    ]
+  }
+}

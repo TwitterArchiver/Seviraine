@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2068739157070082244",
+    "created_at": "2026-06-21T18:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068767101129723971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1974322069807714305",
+          "start": 0,
+          "username": "toskaIceland"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068767101129723971",
+    "in_reply_to_user_id": "1974322069807714305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068750845554962762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toskaIceland 爱你咪ꉂ(ˊᗜˋ*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2068739157070082244",
+        "created_at": "2026-06-21T18:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068767101129723971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1974322069807714305",
+              "start": 0,
+              "username": "toskaIceland"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068767101129723971",
+        "in_reply_to_user_id": "1974322069807714305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068750845554962762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toskaIceland 爱你咪ꉂ(ˊᗜˋ*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974322069807714305",
+        "conversation_id": "2068739157070082244",
+        "created_at": "2026-06-21T17:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068750845554962762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066080690438123520",
+              "start": 0,
+              "username": "Seviraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068750845554962762",
+        "in_reply_to_user_id": "2066080690438123520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068739157070082244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seviraine 好美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 199,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T03:54:18.000Z",
+        "description": "兄弟你不要跟我扯 我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点",
+        "id": "1974322069807714305",
+        "name": "Toska",
+        "pinned_tweet_id": "2068400474588328247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920786865975296/ReB-uSO5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 90,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "toskaIceland",
+        "verified": false
+      }
+    ]
+  }
+}
