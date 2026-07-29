@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066080690438123520",
+    "conversation_id": "2081074082385465617",
+    "created_at": "2026-07-27T15:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081761362615906468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2075915645703925761",
+          "start": 0,
+          "username": "Kolasr3yy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081761362615906468",
+    "in_reply_to_user_id": "2075915645703925761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081289375040843963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kolasr3yy 两只耳朵中间是猪头吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2081074082385465617",
+        "created_at": "2026-07-27T15:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081761362615906468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2075915645703925761",
+              "start": 0,
+              "username": "Kolasr3yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081761362615906468",
+        "in_reply_to_user_id": "2075915645703925761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081289375040843963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kolasr3yy 两只耳朵中间是猪头吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075915645703925761",
+        "conversation_id": "2081074082385465617",
+        "created_at": "2026-07-26T08:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081289375040843963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066080690438123520",
+              "start": 0,
+              "username": "Seviraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081289375040843963",
+        "in_reply_to_user_id": "2066080690438123520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081074082385465617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seviraine 这么丑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "一个精神病，回fo私信",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081075017413238784/4pahPiY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 1,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-11T12:11:15.000Z",
+        "description": "",
+        "id": "2075915645703925761",
+        "location": "0.1km",
+        "name": "Kolas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075915959689486337/6VrsI7-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 31,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "Kolasr3yy",
+        "verified": false
+      }
+    ]
+  }
+}
